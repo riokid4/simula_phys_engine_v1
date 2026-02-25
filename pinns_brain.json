@@ -1,0 +1,4460 @@
+[
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "focuses on",
+    "object": "data-driven solutions of nonlinear partial differential equations",
+    "chunk": 1
+  },
+  {
+    "subject": "maziar raissi",
+    "predicate": "is author",
+    "object": "physics informed deep learning (part i)",
+    "chunk": 1
+  },
+  {
+    "subject": "paris perdikaris",
+    "predicate": "is author",
+    "object": "physics informed deep learning (part i)",
+    "chunk": 1
+  },
+  {
+    "subject": "george em karniadakis",
+    "predicate": "is author",
+    "object": "physics informed deep learning (part i)",
+    "chunk": 1
+  },
+  {
+    "subject": "maziar raissi",
+    "predicate": "affiliated with",
+    "object": "division of applied mathematics",
+    "chunk": 1
+  },
+  {
+    "subject": "george em karniadakis",
+    "predicate": "affiliated with",
+    "object": "division of applied mathematics",
+    "chunk": 1
+  },
+  {
+    "subject": "division of applied mathematics",
+    "predicate": "part of",
+    "object": "brown university",
+    "chunk": 1
+  },
+  {
+    "subject": "brown university",
+    "predicate": "located in",
+    "object": "providence, ri",
+    "chunk": 1
+  },
+  {
+    "subject": "paris perdikaris",
+    "predicate": "affiliated with",
+    "object": "department of mechanical engineering and applied mechanics",
+    "chunk": 1
+  },
+  {
+    "subject": "department of mechanical engineering and applied mechanics",
+    "predicate": "part of",
+    "object": "university of pennsylvania",
+    "chunk": 1
+  },
+  {
+    "subject": "university of pennsylvania",
+    "predicate": "located in",
+    "object": "philadelphia, pa",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "are type of",
+    "object": "neural networks",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "trained to solve",
+    "object": "supervised learning tasks",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "respects",
+    "object": "law of physics",
+    "chunk": 1
+  },
+  {
+    "subject": "law of physics",
+    "predicate": "described by",
+    "object": "general nonlinear partial differential equations",
+    "chunk": 1
+  },
+  {
+    "subject": "treatise",
+    "predicate": "has",
+    "object": "two parts",
+    "chunk": 1
+  },
+  {
+    "subject": "treatise",
+    "predicate": "presents developments for",
+    "object": "solving problems",
+    "chunk": 1
+  },
+  {
+    "subject": "solving problems",
+    "predicate": "includes",
+    "object": "data-driven solution of partial differential equations",
+    "chunk": 1
+  },
+  {
+    "subject": "solving problems",
+    "predicate": "includes",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 1
+  },
+  {
+    "subject": "available data",
+    "predicate": "has",
+    "object": "nature",
+    "chunk": 1
+  },
+  {
+    "subject": "available data",
+    "predicate": "has",
+    "object": "arrangement",
+    "chunk": 1
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "are",
+    "object": "two distinct classes",
+    "chunk": 1
+  },
+  {
+    "subject": "two distinct classes",
+    "predicate": "are",
+    "object": "continuous time models",
+    "chunk": 1
+  },
+  {
+    "subject": "two distinct classes",
+    "predicate": "are",
+    "object": "discrete time models",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "form class of",
+    "object": "data-efficient universal function approximators",
+    "chunk": 1
+  },
+  {
+    "subject": "data-efficient universal function approximators",
+    "predicate": "encode",
+    "object": "underlying physical laws",
+    "chunk": 1
+  },
+  {
+    "subject": "underlying physical laws",
+    "predicate": "acts as",
+    "object": "prior information",
+    "chunk": 1
+  },
+  {
+    "subject": "first part",
+    "predicate": "demonstrates use of",
+    "object": "physics informed neural networks",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "used to infer",
+    "object": "solutions to partial differential equations",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "used to obtain",
+    "object": "physics-informed surrogate models",
+    "chunk": 1
+  },
+  {
+    "subject": "physics-informed surrogate models",
+    "predicate": "are",
+    "object": "fully differentiable",
+    "chunk": 1
+  },
+  {
+    "subject": "physics-informed surrogate models",
+    "predicate": "differentiable with respect",
+    "object": "input coordinates",
+    "chunk": 1
+  },
+  {
+    "subject": "physics-informed surrogate models",
+    "predicate": "differentiable with respect",
+    "object": "free parameters",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "keyword is",
+    "object": "data-driven scientific computing",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "keyword is",
+    "object": "machine learning",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "keyword is",
+    "object": "predictive modeling",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "keyword is",
+    "object": "runge-kutta methods",
+    "chunk": 1
+  },
+  {
+    "subject": "physics informed deep learning (part i)",
+    "predicate": "keyword is",
+    "object": "nonlinear dynamics",
+    "chunk": 1
+  },
+  {
+    "subject": "available data",
+    "predicate": "has",
+    "object": "explosive growth",
+    "chunk": 1
+  },
+  {
+    "subject": "computing resources",
+    "predicate": "has",
+    "object": "explosive growth",
+    "chunk": 1
+  },
+  {
+    "subject": "advances in machine learning",
+    "predicate": "yielded",
+    "object": "transformative results",
+    "chunk": 1
+  },
+  {
+    "subject": "advances in data analytics",
+    "predicate": "yielded",
+    "object": "transformative results",
+    "chunk": 1
+  },
+  {
+    "subject": "transformative results",
+    "predicate": "occur across",
+    "object": "diverse scientific disciplines",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse scientific disciplines",
+    "predicate": "includes",
+    "object": "image recognition",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse scientific disciplines",
+    "predicate": "includes",
+    "object": "natural language processing",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse scientific disciplines",
+    "predicate": "includes",
+    "object": "cognitive science",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse scientific disciplines",
+    "predicate": "includes",
+    "object": "genomics",
+    "chunk": 1
+  },
+  {
+    "subject": "preprint",
+    "predicate": "submitted to",
+    "object": "journal name",
+    "chunk": 1
+  },
+  {
+    "subject": "preprint",
+    "predicate": "submitted on",
+    "object": "november 30, 2017",
+    "chunk": 1
+  },
+  {
+    "subject": "preprint",
+    "predicate": "has identifier",
+    "object": "arxiv:1711.10561v1",
+    "chunk": 1
+  },
+  {
+    "subject": "arxiv:1711.10561v1",
+    "predicate": "category is",
+    "object": "cs.ai",
+    "chunk": 1
+  },
+  {
+    "subject": "arxiv:1711.10561v1",
+    "predicate": "version date",
+    "object": "november 28, 2017",
+    "chunk": 1
+  },
+  {
+    "subject": "analyzing systems",
+    "predicate": "involves",
+    "object": "complex physical systems",
+    "chunk": 1
+  },
+  {
+    "subject": "analyzing systems",
+    "predicate": "involves",
+    "object": "biological systems",
+    "chunk": 1
+  },
+  {
+    "subject": "analyzing systems",
+    "predicate": "involves",
+    "object": "engineering systems",
+    "chunk": 1
+  },
+  {
+    "subject": "data acquisition",
+    "predicate": "has",
+    "object": "prohibitive cost",
+    "chunk": 1
+  },
+  {
+    "subject": "analysis",
+    "predicate": "leads to challenge",
+    "object": "drawing conclusions under partial information",
+    "chunk": 1
+  },
+  {
+    "subject": "analysis",
+    "predicate": "leads to challenge",
+    "object": "making decisions under partial information",
+    "chunk": 1
+  },
+  {
+    "subject": "small data regime",
+    "predicate": "affects",
+    "object": "machine learning techniques",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "are",
+    "object": "state-of-the art",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "includes",
+    "object": "deep neural networks",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "includes",
+    "object": "convolutional neural networks",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "includes",
+    "object": "recurrent neural networks",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "lacks",
+    "object": "robustness",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning techniques",
+    "predicate": "fails to provide",
+    "object": "guarantees of convergence",
+    "chunk": 1
+  },
+  {
+    "subject": "training deep learning algorithm",
+    "predicate": "task is",
+    "object": "identify nonlinear map",
+    "chunk": 1
+  },
+  {
+    "subject": "nonlinear map",
+    "predicate": "identified from",
+    "object": "input and output data pairs",
+    "chunk": 1
+  },
+  {
+    "subject": "input and output data pairs",
+    "predicate": "are",
+    "object": "few",
+    "chunk": 1
+  },
+  {
+    "subject": "input and output data pairs",
+    "predicate": "are potentially",
+    "object": "very high-dimensional",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "exists for",
+    "object": "modeling of physical systems",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "exists for",
+    "object": "modeling of biological systems",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "is",
+    "object": "vast amount",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "not utilized in",
+    "object": "modern machine learning practice",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "includes",
+    "object": "principled physical laws",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "includes",
+    "object": "empirical validated rules",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "includes",
+    "object": "domain expertise",
+    "chunk": 1
+  },
+  {
+    "subject": "principled physical laws",
+    "predicate": "govern",
+    "object": "time-dependent dynamics of a system",
+    "chunk": 1
+  },
+  {
+    "subject": "prior knowledge",
+    "predicate": "acts as",
+    "object": "regularization agent",
+    "chunk": 1
+  },
+  {
+    "subject": "regularization agent",
+    "predicate": "constrains",
+    "object": "space of admissible solutions",
+    "chunk": 1
+  },
+  {
+    "subject": "space of admissible solutions",
+    "predicate": "reduced to",
+    "object": "manageable size",
+    "chunk": 1
+  },
+  {
+    "subject": "regularization agent",
+    "predicate": "used in",
+    "object": "incompressible fluid dynamics problems",
+    "chunk": 1
+  },
+  {
+    "subject": "incompressible fluid dynamics problems",
+    "predicate": "involves discarding",
+    "object": "non realistic flow solutions",
+    "chunk": 1
+  },
+  {
+    "subject": "non realistic flow solutions",
+    "predicate": "violate",
+    "object": "conservation of mass principle",
+    "chunk": 1
+  },
+  {
+    "subject": "encoding prior knowledge",
+    "predicate": "into",
+    "object": "learning algorithm",
+    "chunk": 1
+  },
+  {
+    "subject": "encoding prior knowledge",
+    "predicate": "results in",
+    "object": "amplifying information content of data",
+    "chunk": 1
+  },
+  {
+    "subject": "learning algorithm",
+    "predicate": "steers towards",
+    "object": "right solution",
+    "chunk": 1
+  },
+  {
+    "subject": "non realistic flow solutions",
+    "predicate": "violate",
+    "object": "conservation of mass principle",
+    "chunk": 2
+  },
+  {
+    "subject": "conservation of mass principle",
+    "predicate": "relates to",
+    "object": "problems",
+    "chunk": 2
+  },
+  {
+    "subject": "encoding structured information",
+    "predicate": "results in",
+    "object": "amplifying information content",
+    "chunk": 2
+  },
+  {
+    "subject": "amplifying information content",
+    "predicate": "enables",
+    "object": "learning algorithm",
+    "chunk": 2
+  },
+  {
+    "subject": "learning algorithm",
+    "predicate": "steers towards",
+    "object": "right solution",
+    "chunk": 2
+  },
+  {
+    "subject": "learning algorithm",
+    "predicate": "generalizes well",
+    "object": "few training examples",
+    "chunk": 2
+  },
+  {
+    "subject": "structured information",
+    "predicate": "encoded into",
+    "object": "learning algorithm",
+    "chunk": 2
+  },
+  {
+    "subject": "learning algorithm",
+    "predicate": "sees",
+    "object": "data",
+    "chunk": 2
+  },
+  {
+    "subject": "exploiting structured prior information",
+    "predicate": "constructs",
+    "object": "data-efficient learning machines",
+    "chunk": 2
+  },
+  {
+    "subject": "exploiting structured prior information",
+    "predicate": "constructs",
+    "object": "physics-informed learning machines",
+    "chunk": 2
+  },
+  {
+    "subject": "promise",
+    "predicate": "showcased in",
+    "object": "recent studies [5, 6, 7]",
+    "chunk": 2
+  },
+  {
+    "subject": "authors of [5, 6, 7]",
+    "predicate": "employed",
+    "object": "gaussian process regression [8]",
+    "chunk": 2
+  },
+  {
+    "subject": "gaussian process regression [8]",
+    "predicate": "devises",
+    "object": "functional representations",
+    "chunk": 2
+  },
+  {
+    "subject": "functional representations",
+    "predicate": "tailored to",
+    "object": "linear operator",
+    "chunk": 2
+  },
+  {
+    "subject": "authors of [5, 6, 7]",
+    "predicate": "infer",
+    "object": "solutions",
+    "chunk": 2
+  },
+  {
+    "subject": "authors of [5, 6, 7]",
+    "predicate": "provide",
+    "object": "uncertainty estimates",
+    "chunk": 2
+  },
+  {
+    "subject": "solutions",
+    "predicate": "relate to",
+    "object": "prototype problems",
+    "chunk": 2
+  },
+  {
+    "subject": "uncertainty estimates",
+    "predicate": "relate to",
+    "object": "prototype problems",
+    "chunk": 2
+  },
+  {
+    "subject": "prototype problems",
+    "predicate": "found in",
+    "object": "mathematical physics",
+    "chunk": 2
+  },
+  {
+    "subject": "extensions",
+    "predicate": "proposed by",
+    "object": "raissi et. al. [9, 10]",
+    "chunk": 2
+  },
+  {
+    "subject": "extensions",
+    "predicate": "apply to",
+    "object": "nonlinear problems",
+    "chunk": 2
+  },
+  {
+    "subject": "raissi et. al. [9, 10]",
+    "predicate": "studied",
+    "object": "inference",
+    "chunk": 2
+  },
+  {
+    "subject": "raissi et. al. [9, 10]",
+    "predicate": "studied",
+    "object": "systems identification",
+    "chunk": 2
+  },
+  {
+    "subject": "gaussian processes",
+    "predicate": "encodes",
+    "object": "prior information",
+    "chunk": 2
+  },
+  {
+    "subject": "gaussian processes",
+    "predicate": "has",
+    "object": "flexibility",
+    "chunk": 2
+  },
+  {
+    "subject": "gaussian processes",
+    "predicate": "has",
+    "object": "mathematical elegance",
+    "chunk": 2
+  },
+  {
+    "subject": "treatment of nonlinear problems",
+    "predicate": "introduces",
+    "object": "two important limitations",
+    "chunk": 2
+  },
+  {
+    "subject": "raissi et. al. [9, 10]",
+    "predicate": "locally linearize",
+    "object": "nonlinear terms",
+    "chunk": 2
+  },
+  {
+    "subject": "linearization",
+    "predicate": "limits applicability to",
+    "object": "discrete-time domains",
+    "chunk": 2
+  },
+  {
+    "subject": "linearization",
+    "predicate": "compromises",
+    "object": "accuracy of predictions",
+    "chunk": 2
+  },
+  {
+    "subject": "accuracy of predictions",
+    "predicate": "compromised in",
+    "object": "strongly nonlinear regimes",
+    "chunk": 2
+  },
+  {
+    "subject": "gaussian process regression",
+    "predicate": "has",
+    "object": "bayesian nature",
+    "chunk": 2
+  },
+  {
+    "subject": "bayesian nature",
+    "predicate": "requires",
+    "object": "prior assumptions",
+    "chunk": 2
+  },
+  {
+    "subject": "prior assumptions",
+    "predicate": "limit",
+    "object": "representation capacity",
+    "chunk": 2
+  },
+  {
+    "subject": "prior assumptions",
+    "predicate": "cause",
+    "object": "robustness/brittleness issues",
+    "chunk": 2
+  },
+  {
+    "subject": "robustness/brittleness issues",
+    "predicate": "occur for",
+    "object": "nonlinear problems [11]",
+    "chunk": 2
+  },
+  {
+    "subject": "this work",
+    "predicate": "employs",
+    "object": "deep neural networks",
+    "chunk": 2
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "are",
+    "object": "universal function approximators [12]",
+    "chunk": 2
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "tackle",
+    "object": "nonlinear problems",
+    "chunk": 2
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "avoid",
+    "object": "prior assumptions",
+    "chunk": 2
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "avoid",
+    "object": "linearization",
+    "chunk": 2
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "avoid",
+    "object": "local time-stepping",
+    "chunk": 2
+  },
+  {
+    "subject": "this work",
+    "predicate": "exploits",
+    "object": "automatic differentiation [13]",
+    "chunk": 2
+  },
+  {
+    "subject": "automatic differentiation [13]",
+    "predicate": "is technique in",
+    "object": "scientific computing",
+    "chunk": 2
+  },
+  {
+    "subject": "automatic differentiation [13]",
+    "predicate": "differentiates",
+    "object": "neural networks",
+    "chunk": 2
+  },
+  {
+    "subject": "differentiation",
+    "predicate": "uses",
+    "object": "input coordinates",
+    "chunk": 2
+  },
+  {
+    "subject": "differentiation",
+    "predicate": "uses",
+    "object": "model parameters",
+    "chunk": 2
+  },
+  {
+    "subject": "differentiation",
+    "predicate": "obtains",
+    "object": "physics informed neural networks",
+    "chunk": 2
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "respect",
+    "object": "symmetry",
+    "chunk": 2
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "respect",
+    "object": "invariance",
+    "chunk": 2
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "respect",
+    "object": "conservation principles",
+    "chunk": 2
+  },
+  {
+    "subject": "conservation principles",
+    "predicate": "originate from",
+    "object": "physical laws",
+    "chunk": 2
+  },
+  {
+    "subject": "physical laws",
+    "predicate": "govern",
+    "object": "observed data",
+    "chunk": 2
+  },
+  {
+    "subject": "observed data",
+    "predicate": "modeled by",
+    "object": "partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "partial differential equations",
+    "predicate": "are",
+    "object": "time-dependent",
+    "chunk": 2
+  },
+  {
+    "subject": "partial differential equations",
+    "predicate": "are",
+    "object": "nonlinear",
+    "chunk": 2
+  },
+  {
+    "subject": "construction",
+    "predicate": "tackles",
+    "object": "problems in computational science",
+    "chunk": 2
+  },
+  {
+    "subject": "construction",
+    "predicate": "introduces",
+    "object": "disruptive technology",
+    "chunk": 2
+  },
+  {
+    "subject": "disruptive technology",
+    "predicate": "leads to",
+    "object": "data-efficient learning machines",
+    "chunk": 2
+  },
+  {
+    "subject": "disruptive technology",
+    "predicate": "leads to",
+    "object": "physics-informed learning machines",
+    "chunk": 2
+  },
+  {
+    "subject": "disruptive technology",
+    "predicate": "leads to",
+    "object": "numerical solvers",
+    "chunk": 2
+  },
+  {
+    "subject": "numerical solvers",
+    "predicate": "for",
+    "object": "partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "disruptive technology",
+    "predicate": "leads to",
+    "object": "data-driven approaches",
+    "chunk": 2
+  },
+  {
+    "subject": "data-driven approaches",
+    "predicate": "used for",
+    "object": "model inversion",
+    "chunk": 2
+  },
+  {
+    "subject": "data-driven approaches",
+    "predicate": "used for",
+    "object": "systems identification",
+    "chunk": 2
+  },
+  {
+    "subject": "aim of this work",
+    "predicate": "sets foundations for",
+    "object": "new paradigm",
+    "chunk": 2
+  },
+  {
+    "subject": "new paradigm",
+    "predicate": "relates to",
+    "object": "modeling and computation",
+    "chunk": 2
+  },
+  {
+    "subject": "new paradigm",
+    "predicate": "enriches",
+    "object": "deep learning",
+    "chunk": 2
+  },
+  {
+    "subject": "new paradigm",
+    "predicate": "uses",
+    "object": "developments in mathematical physics",
+    "chunk": 2
+  },
+  {
+    "subject": "developments in mathematical physics",
+    "predicate": "presented as",
+    "object": "two main problem classes",
+    "chunk": 2
+  },
+  {
+    "subject": "two main problem classes",
+    "predicate": "include",
+    "object": "data-driven solution",
+    "chunk": 2
+  },
+  {
+    "subject": "two main problem classes",
+    "predicate": "include",
+    "object": "data-driven discovery",
+    "chunk": 2
+  },
+  {
+    "subject": "data-driven solution",
+    "predicate": "relates to",
+    "object": "partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "data-driven discovery",
+    "predicate": "relates to",
+    "object": "partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "this work",
+    "predicate": "considers",
+    "object": "parametrized partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "this work",
+    "predicate": "considers",
+    "object": "nonlinear partial differential equations",
+    "chunk": 2
+  },
+  {
+    "subject": "modeling and computation",
+    "predicate": "enriches",
+    "object": "deep learning",
+    "chunk": 3
+  },
+  {
+    "subject": "modeling and computation",
+    "predicate": "uses",
+    "object": "developments in mathematical physics",
+    "chunk": 3
+  },
+  {
+    "subject": "deep learning",
+    "predicate": "uses",
+    "object": "developments in mathematical physics",
+    "chunk": 3
+  },
+  {
+    "subject": "developments in mathematical physics",
+    "predicate": "presented in context",
+    "object": "two main problem classes",
+    "chunk": 3
+  },
+  {
+    "subject": "two main problem classes",
+    "predicate": "includes",
+    "object": "data-driven solution of partial differential equations",
+    "chunk": 3
+  },
+  {
+    "subject": "two main problem classes",
+    "predicate": "includes",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 3
+  },
+  {
+    "subject": "parametrized and nonlinear partial differential equations",
+    "predicate": "has general form",
+    "object": "ut + n[u;\u03bb] = 0",
+    "chunk": 3
+  },
+  {
+    "subject": "u(t,x)",
+    "predicate": "denotes",
+    "object": "latent solution",
+    "chunk": 3
+  },
+  {
+    "subject": "u(t,x)",
+    "predicate": "denotes",
+    "object": "hidden solution",
+    "chunk": 3
+  },
+  {
+    "subject": "n[\u00b7;\u03bb]",
+    "predicate": "is",
+    "object": "nonlinear operator",
+    "chunk": 3
+  },
+  {
+    "subject": "nonlinear operator",
+    "predicate": "parametrized by",
+    "object": "\u03bb",
+    "chunk": 3
+  },
+  {
+    "subject": "parametrized and nonlinear partial differential equations setup",
+    "predicate": "encapsulates",
+    "object": "problems in mathematical physics",
+    "chunk": 3
+  },
+  {
+    "subject": "problems in mathematical physics",
+    "predicate": "includes",
+    "object": "conservation laws",
+    "chunk": 3
+  },
+  {
+    "subject": "problems in mathematical physics",
+    "predicate": "includes",
+    "object": "diffusion processes",
+    "chunk": 3
+  },
+  {
+    "subject": "problems in mathematical physics",
+    "predicate": "includes",
+    "object": "advection-diffusion-reaction systems",
+    "chunk": 3
+  },
+  {
+    "subject": "problems in mathematical physics",
+    "predicate": "includes",
+    "object": "kinetic equations",
+    "chunk": 3
+  },
+  {
+    "subject": "one dimensional burgers\u2019 equation",
+    "predicate": "is",
+    "object": "motivating example",
+    "chunk": 3
+  },
+  {
+    "subject": "one dimensional burgers\u2019 equation",
+    "predicate": "corresponds to case",
+    "object": "3",
+    "chunk": 3
+  },
+  {
+    "subject": "one dimensional burgers\u2019 equation",
+    "predicate": "has form",
+    "object": "n[u;\u03bb] = \u03bb1uux \u2212 \u03bb2uxx",
+    "chunk": 3
+  },
+  {
+    "subject": "\u03bb",
+    "predicate": "is defined as",
+    "object": "(\u03bb1, \u03bb2)",
+    "chunk": 3
+  },
+  {
+    "subject": "one dimensional burgers\u2019 equation",
+    "predicate": "referenced in",
+    "object": "[14]",
+    "chunk": 3
+  },
+  {
+    "subject": "subscripts",
+    "predicate": "denote",
+    "object": "partial differentiation in time",
+    "chunk": 3
+  },
+  {
+    "subject": "subscripts",
+    "predicate": "denote",
+    "object": "partial differentiation in space",
+    "chunk": 3
+  },
+  {
+    "subject": "noisy measurements",
+    "predicate": "relate to",
+    "object": "system",
+    "chunk": 3
+  },
+  {
+    "subject": "solution",
+    "predicate": "involves",
+    "object": "two distinct problems",
+    "chunk": 3
+  },
+  {
+    "subject": "first problem",
+    "predicate": "is",
+    "object": "predictive inference",
+    "chunk": 3
+  },
+  {
+    "subject": "first problem",
+    "predicate": "is",
+    "object": "filtering",
+    "chunk": 3
+  },
+  {
+    "subject": "first problem",
+    "predicate": "is",
+    "object": "smoothing",
+    "chunk": 3
+  },
+  {
+    "subject": "first problem",
+    "predicate": "is",
+    "object": "data driven solutions of partial differential equations",
+    "chunk": 3
+  },
+  {
+    "subject": "data driven solutions of partial differential equations",
+    "predicate": "referenced in",
+    "object": "[9]",
+    "chunk": 3
+  },
+  {
+    "subject": "data driven solutions of partial differential equations",
+    "predicate": "referenced in",
+    "object": "[5]",
+    "chunk": 3
+  },
+  {
+    "subject": "first problem",
+    "predicate": "asks about",
+    "object": "unknown hidden state u(t,x)",
+    "chunk": 3
+  },
+  {
+    "subject": "unknown hidden state u(t,x)",
+    "predicate": "depends on",
+    "object": "fixed model parameters \u03bb",
+    "chunk": 3
+  },
+  {
+    "subject": "second problem",
+    "predicate": "is",
+    "object": "learning",
+    "chunk": 3
+  },
+  {
+    "subject": "second problem",
+    "predicate": "is",
+    "object": "system identification",
+    "chunk": 3
+  },
+  {
+    "subject": "second problem",
+    "predicate": "is",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 3
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "referenced in",
+    "object": "[10]",
+    "chunk": 3
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "referenced in",
+    "object": "[6]",
+    "chunk": 3
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "referenced in",
+    "object": "[15]",
+    "chunk": 3
+  },
+  {
+    "subject": "second problem",
+    "predicate": "seeks",
+    "object": "parameters \u03bb",
+    "chunk": 3
+  },
+  {
+    "subject": "parameters \u03bb",
+    "predicate": "best describe",
+    "object": "observed data",
+    "chunk": 3
+  },
+  {
+    "subject": "first part of treatise",
+    "predicate": "focuses on",
+    "object": "computing data-driven solutions",
+    "chunk": 3
+  },
+  {
+    "subject": "computing data-driven solutions",
+    "predicate": "applies to",
+    "object": "partial differential equations",
+    "chunk": 3
+  },
+  {
+    "subject": "partial differential equations",
+    "predicate": "has general form",
+    "object": "ut + n[u] = 0",
+    "chunk": 3
+  },
+  {
+    "subject": "partial differential equations",
+    "predicate": "defined by",
+    "object": "equation (1)",
+    "chunk": 3
+  },
+  {
+    "subject": "equation (1)",
+    "predicate": "defines domain",
+    "object": "x \u2208 \u2126",
+    "chunk": 3
+  },
+  {
+    "subject": "equation (1)",
+    "predicate": "defines domain",
+    "object": "t \u2208 [0,t]",
+    "chunk": 3
+  },
+  {
+    "subject": "n[\u00b7]",
+    "predicate": "is",
+    "object": "nonlinear differential operator",
+    "chunk": 3
+  },
+  {
+    "subject": "\u2126",
+    "predicate": "is subset of",
+    "object": "rd",
+    "chunk": 3
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "includes",
+    "object": "continuous time models",
+    "chunk": 3
+  },
+  {
+    "subject": "algorithms",
+    "predicate": "includes",
+    "object": "discrete time models",
+    "chunk": 3
+  },
+  {
+    "subject": "continuous time models",
+    "predicate": "properties highlighted by",
+    "object": "benchmark problems",
+    "chunk": 3
+  },
+  {
+    "subject": "discrete time models",
+    "predicate": "performance highlighted by",
+    "object": "benchmark problems",
+    "chunk": 3
+  },
+  {
+    "subject": "code",
+    "predicate": "accompanies",
+    "object": "manuscript",
+    "chunk": 3
+  },
+  {
+    "subject": "data-sets",
+    "predicate": "accompanies",
+    "object": "manuscript",
+    "chunk": 3
+  },
+  {
+    "subject": "code",
+    "predicate": "available at",
+    "object": "https://github.com/maziarraissi/pinns",
+    "chunk": 3
+  },
+  {
+    "subject": "data-sets",
+    "predicate": "available at",
+    "object": "https://github.com/maziarraissi/pinns",
+    "chunk": 3
+  },
+  {
+    "subject": "continuous time models",
+    "predicate": "is section",
+    "object": "2",
+    "chunk": 3
+  },
+  {
+    "subject": "f(t,x)",
+    "predicate": "defined by",
+    "object": "left-hand-side of equation (1)",
+    "chunk": 3
+  },
+  {
+    "subject": "f",
+    "predicate": "equals",
+    "object": "ut + n[u]",
+    "chunk": 3
+  },
+  {
+    "subject": "f",
+    "predicate": "defined by",
+    "object": "equation (2)",
+    "chunk": 3
+  },
+  {
+    "subject": "u(t,x)",
+    "predicate": "approximated by",
+    "object": "deep neural network",
+    "chunk": 3
+  },
+  {
+    "subject": "approximation assumption",
+    "predicate": "results in",
+    "object": "physics informed neural network f(t,x)",
+    "chunk": 3
+  },
+  {
+    "subject": "equation (2)",
+    "predicate": "results in",
+    "object": "physics informed neural network f(t,x)",
+    "chunk": 3
+  },
+  {
+    "subject": "physics informed neural network f(t,x)",
+    "predicate": "derived using",
+    "object": "chain rule",
+    "chunk": 3
+  },
+  {
+    "subject": "chain rule",
+    "predicate": "used for",
+    "object": "differentiating compositions of functions",
+    "chunk": 3
+  },
+  {
+    "subject": "physics informed neural network f(t,x)",
+    "predicate": "uses",
+    "object": "automatic differentiation",
+    "chunk": 3
+  },
+  {
+    "subject": "automatic differentiation",
+    "predicate": "referenced in",
+    "object": "[13]",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "is section",
+    "object": "2.1",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "arises in",
+    "object": "applied mathematics",
+    "chunk": 3
+  },
+  {
+    "subject": "applied mathematics",
+    "predicate": "includes area",
+    "object": "fluid mechanics",
+    "chunk": 3
+  },
+  {
+    "subject": "applied mathematics",
+    "predicate": "includes area",
+    "object": "nonlinear acoustics",
+    "chunk": 3
+  },
+  {
+    "subject": "applied mathematics",
+    "predicate": "includes area",
+    "object": "gas dynamics",
+    "chunk": 3
+  },
+  {
+    "subject": "applied mathematics",
+    "predicate": "includes area",
+    "object": "traffic flow",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "is",
+    "object": "fundamental partial differential equation",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "derived from",
+    "object": "navier-stokes equations",
+    "chunk": 3
+  },
+  {
+    "subject": "navier-stokes equations",
+    "predicate": "used for",
+    "object": "velocity field",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation derivation",
+    "predicate": "involves dropping",
+    "object": "pressure gradient term",
+    "chunk": 3
+  },
+  {
+    "subject": "small values of viscosity parameters",
+    "predicate": "leads to",
+    "object": "shock formation",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "leads to",
+    "object": "shock formation",
+    "chunk": 3
+  },
+  {
+    "subject": "shock formation",
+    "predicate": "hard to resolve",
+    "object": "classical numerical methods",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "defined in",
+    "object": "one space dimension",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "uses",
+    "object": "dirichlet boundary conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "has form",
+    "object": "ut + uux \u2212 (0.01/\u03c0)uxx = 0",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers\u2019 equation",
+    "predicate": "defined by",
+    "object": "equation (3)",
+    "chunk": 3
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines domain",
+    "object": "x \u2208 [-1, 1]",
+    "chunk": 3
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines domain",
+    "object": "t \u2208 [0, 1]",
+    "chunk": 3
+  },
+  {
+    "subject": "burgers equation",
+    "predicate": "uses",
+    "object": "viscosity parameters",
+    "chunk": 4
+  },
+  {
+    "subject": "burgers equation",
+    "predicate": "leads to",
+    "object": "shock formation",
+    "chunk": 4
+  },
+  {
+    "subject": "shock formation",
+    "predicate": "hard to resolve",
+    "object": "classical numerical methods",
+    "chunk": 4
+  },
+  {
+    "subject": "burgers equation",
+    "predicate": "applies in",
+    "object": "one space dimension",
+    "chunk": 4
+  },
+  {
+    "subject": "burgers equation",
+    "predicate": "uses",
+    "object": "dirichlet boundary conditions",
+    "chunk": 4
+  },
+  {
+    "subject": "burgers equation",
+    "predicate": "reads as",
+    "object": "equation (3)",
+    "chunk": 4
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines",
+    "object": "ut +uux\u2212 (0.01/\u03c0)uxx = 0",
+    "chunk": 4
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines domain x",
+    "object": "[\u22121, 1]",
+    "chunk": 4
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines domain t",
+    "object": "[0, 1]",
+    "chunk": 4
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines initial condition",
+    "object": "u(0,x ) =\u2212 sin(\u03c0x)",
+    "chunk": 4
+  },
+  {
+    "subject": "equation (3)",
+    "predicate": "defines boundary condition",
+    "object": "u(t,\u22121) =u(t, 1) = 0",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "defined by",
+    "object": "ut +uux\u2212 (0.01/\u03c0)uxx",
+    "chunk": 4
+  },
+  {
+    "subject": "u(t,x )",
+    "predicate": "approximated by",
+    "object": "deep neural network",
+    "chunk": 4
+  },
+  {
+    "subject": "python code snippet",
+    "predicate": "highlights",
+    "object": "implementation simplicity",
+    "chunk": 4
+  },
+  {
+    "subject": "python code snippet",
+    "predicate": "uses",
+    "object": "tensorflow [16]",
+    "chunk": 4
+  },
+  {
+    "subject": "tensorflow [16]",
+    "predicate": "is type of",
+    "object": "open source library",
+    "chunk": 4
+  },
+  {
+    "subject": "tensorflow [16]",
+    "predicate": "used for",
+    "object": "machine learning computations",
+    "chunk": 4
+  },
+  {
+    "subject": "tensorflow [16]",
+    "predicate": "is",
+    "object": "popular library",
+    "chunk": 4
+  },
+  {
+    "subject": "tensorflow [16]",
+    "predicate": "is",
+    "object": "well documented",
+    "chunk": 4
+  },
+  {
+    "subject": "u(t,x )",
+    "predicate": "defined as",
+    "object": "neural network function",
+    "chunk": 4
+  },
+  {
+    "subject": "neural network function",
+    "predicate": "uses input",
+    "object": "t",
+    "chunk": 4
+  },
+  {
+    "subject": "neural network function",
+    "predicate": "uses input",
+    "object": "x",
+    "chunk": 4
+  },
+  {
+    "subject": "neural network function",
+    "predicate": "uses",
+    "object": "weights",
+    "chunk": 4
+  },
+  {
+    "subject": "neural network function",
+    "predicate": "uses",
+    "object": "biases",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "is type of",
+    "object": "physics informed neural network",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "uses",
+    "object": "u(t, x)",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "calculates",
+    "object": "u_t",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "calculates",
+    "object": "u_x",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "calculates",
+    "object": "u_xx",
+    "chunk": 4
+  },
+  {
+    "subject": "f(t,x )",
+    "predicate": "defined by",
+    "object": "u_t + u*u_x - (0.01/tf.pi)*u_xx",
+    "chunk": 4
+  },
+  {
+    "subject": "u(t,x )",
+    "predicate": "shares parameters with",
+    "object": "f(t,x )",
+    "chunk": 4
+  },
+  {
+    "subject": "shared parameters",
+    "predicate": "learned by",
+    "object": "minimizing mean squared error loss",
+    "chunk": 4
+  },
+  {
+    "subject": "mean squared error loss",
+    "predicate": "is defined as",
+    "object": "mse (4)",
+    "chunk": 4
+  },
+  {
+    "subject": "mse (4)",
+    "predicate": "equals",
+    "object": "mse u + mse f",
+    "chunk": 4
+  },
+  {
+    "subject": "mse u",
+    "predicate": "is component of",
+    "object": "mse (4)",
+    "chunk": 4
+  },
+  {
+    "subject": "mse f",
+    "predicate": "is component of",
+    "object": "mse (4)",
+    "chunk": 4
+  },
+  {
+    "subject": "{ti u,x i u,u i}nu i=1",
+    "predicate": "denotes",
+    "object": "initial and boundary training data",
+    "chunk": 4
+  },
+  {
+    "subject": "initial and boundary training data",
+    "predicate": "applies to",
+    "object": "u(t,x )",
+    "chunk": 4
+  },
+  {
+    "subject": "{ti f,x i f} nf i=1",
+    "predicate": "specifies",
+    "object": "collocation points",
+    "chunk": 4
+  },
+  {
+    "subject": "collocation points",
+    "predicate": "applies to",
+    "object": "f(t,x )",
+    "chunk": 4
+  },
+  {
+    "subject": "mse u",
+    "predicate": "corresponds to",
+    "object": "initial and boundary data",
+    "chunk": 4
+  },
+  {
+    "subject": "mse f",
+    "predicate": "enforces structure",
+    "object": "equation (3)",
+    "chunk": 4
+  },
+  {
+    "subject": "mse f",
+    "predicate": "uses",
+    "object": "finite set of collocation points",
+    "chunk": 4
+  },
+  {
+    "subject": "total number of training data nu",
+    "predicate": "is",
+    "object": "relatively small",
+    "chunk": 4
+  },
+  {
+    "subject": "total number of training data nu",
+    "predicate": "ranges up to",
+    "object": "few thousand points",
+    "chunk": 4
+  },
+  {
+    "subject": "loss functions",
+    "predicate": "optimized using",
+    "object": "l-bfgs [17]",
+    "chunk": 4
+  },
+  {
+    "subject": "l-bfgs [17]",
+    "predicate": "is type of",
+    "object": "quasi-newton algorithm",
+    "chunk": 4
+  },
+  {
+    "subject": "l-bfgs [17]",
+    "predicate": "is type of",
+    "object": "full-batch algorithm",
+    "chunk": 4
+  },
+  {
+    "subject": "l-bfgs [17]",
+    "predicate": "is type of",
+    "object": "gradient-based optimization algorithm",
+    "chunk": 4
+  },
+  {
+    "subject": "mini-batch setting",
+    "predicate": "is",
+    "object": "computationally efficient",
+    "chunk": 4
+  },
+  {
+    "subject": "mini-batch setting",
+    "predicate": "employed for",
+    "object": "larger data-sets",
+    "chunk": 4
+  },
+  {
+    "subject": "mini-batch setting",
+    "predicate": "uses",
+    "object": "stochastic gradient descent [18, 19]",
+    "chunk": 4
+  },
+  {
+    "subject": "stochastic gradient descent [18, 19]",
+    "predicate": "has",
+    "object": "modern variants",
+    "chunk": 4
+  },
+  {
+    "subject": "procedure",
+    "predicate": "lacks",
+    "object": "theoretical guarantee",
+    "chunk": 4
+  },
+  {
+    "subject": "theoretical guarantee",
+    "predicate": "concerns",
+    "object": "convergence to global minimum",
+    "chunk": 4
+  },
+  {
+    "subject": "empirical evidence",
+    "predicate": "indicates",
+    "object": "method achieves accuracy",
+    "chunk": 4
+  },
+  {
+    "subject": "method",
+    "predicate": "achieves",
+    "object": "good prediction accuracy",
+    "chunk": 4
+  },
+  {
+    "subject": "good prediction accuracy",
+    "predicate": "requires",
+    "object": "well-posed pde",
+    "chunk": 4
+  },
+  {
+    "subject": "good prediction accuracy",
+    "predicate": "requires",
+    "object": "unique solution",
+    "chunk": 4
+  },
+  {
+    "subject": "good prediction accuracy",
+    "predicate": "requires",
+    "object": "expressive neural network architecture",
+    "chunk": 4
+  },
+  {
+    "subject": "good prediction accuracy",
+    "predicate": "requires",
+    "object": "sufficient number of collocation points nf",
+    "chunk": 4
+  },
+  {
+    "subject": "general observation",
+    "predicate": "relates to",
+    "object": "optimization landscape",
+    "chunk": 4
+  },
+  {
+    "subject": "optimization landscape",
+    "predicate": "induced by",
+    "object": "mean square error loss (4)",
+    "chunk": 4
+  },
+  {
+    "subject": "general observation",
+    "predicate": "defines",
+    "object": "open question for research",
+    "chunk": 4
+  },
+  {
+    "subject": "open question for research",
+    "predicate": "aligns with",
+    "object": "theoretical developments [20, 21]",
+    "chunk": 4
+  },
+  {
+    "subject": "theoretical developments [20, 21]",
+    "predicate": "are in field",
+    "object": "deep learning",
+    "chunk": 4
+  },
+  {
+    "subject": "proposed methodology",
+    "predicate": "robustness tested by",
+    "object": "systematic sensitivity studies",
+    "chunk": 4
+  },
+  {
+    "subject": "systematic sensitivity studies",
+    "predicate": "accompany",
+    "object": "numerical results",
+    "chunk": 4
+  },
+  {
+    "subject": "figure 1",
+    "predicate": "summarizes",
+    "object": "results",
+    "chunk": 4
+  },
+  {
+    "subject": "results",
+    "predicate": "concern",
+    "object": "data-driven solution",
+    "chunk": 4
+  },
+  {
+    "subject": "data-driven solution",
+    "predicate": "applies to",
+    "object": "burgers equation",
+    "chunk": 4
+  },
+  {
+    "subject": "nu",
+    "predicate": "equals",
+    "object": "100",
+    "chunk": 4
+  },
+  {
+    "subject": "nu",
+    "predicate": "describes",
+    "object": "randomly distributed initial data",
+    "chunk": 4
+  },
+  {
+    "subject": "we",
+    "predicate": "report",
+    "object": "relative l2 error",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "depends on",
+    "object": "number of initial and boundary training data nu",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "depends on",
+    "object": "number of collocation points nf",
+    "chunk": 6
+  },
+  {
+    "subject": "9-layer network architecture",
+    "predicate": "is kept",
+    "object": "fixed",
+    "chunk": 6
+  },
+  {
+    "subject": "general trend",
+    "predicate": "shows",
+    "object": "increased prediction accuracy",
+    "chunk": 6
+  },
+  {
+    "subject": "increased prediction accuracy",
+    "predicate": "increases when",
+    "object": "total number of training data nu increases",
+    "chunk": 6
+  },
+  {
+    "subject": "increased prediction accuracy",
+    "predicate": "requires",
+    "object": "sufficient number of collocation points nf",
+    "chunk": 6
+  },
+  {
+    "subject": "observation",
+    "predicate": "highlights",
+    "object": "key strength",
+    "chunk": 6
+  },
+  {
+    "subject": "key strength",
+    "predicate": "belongs to",
+    "object": "physics informed neural networks",
+    "chunk": 6
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "encodes structure of",
+    "object": "underlying physical law",
+    "chunk": 6
+  },
+  {
+    "subject": "encoding structure",
+    "predicate": "uses",
+    "object": "number of collocation points nf",
+    "chunk": 6
+  },
+  {
+    "subject": "encoding structure",
+    "predicate": "results in",
+    "object": "accurate and data-efficient learning algorithm",
+    "chunk": 6
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "is a",
+    "object": "learning algorithm",
+    "chunk": 6
+  },
+  {
+    "subject": "figure 1",
+    "predicate": "illustrates",
+    "object": "burgers' equation",
+    "chunk": 6
+  },
+  {
+    "subject": "figure 1 top",
+    "predicate": "shows",
+    "object": "predicted solution u(t, x)",
+    "chunk": 6
+  },
+  {
+    "subject": "predicted solution u(t, x)",
+    "predicate": "uses",
+    "object": "initial and boundary training data",
+    "chunk": 6
+  },
+  {
+    "subject": "predicted solution u(t, x)",
+    "predicate": "uses",
+    "object": "10,000 collocation points",
+    "chunk": 6
+  },
+  {
+    "subject": "10,000 collocation points",
+    "predicate": "generated using",
+    "object": "latin hypercube sampling strategy",
+    "chunk": 6
+  },
+  {
+    "subject": "figure 1 bottom",
+    "predicate": "compares",
+    "object": "predicted solution u(t, x)",
+    "chunk": 6
+  },
+  {
+    "subject": "figure 1 bottom",
+    "predicate": "compares",
+    "object": "exact solutions",
+    "chunk": 6
+  },
+  {
+    "subject": "comparison",
+    "predicate": "corresponds to",
+    "object": "three temporal snapshots",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is",
+    "object": "6.7e-04",
+    "chunk": 6
+  },
+  {
+    "subject": "model training",
+    "predicate": "took",
+    "object": "60 seconds",
+    "chunk": 6
+  },
+  {
+    "subject": "model training",
+    "predicate": "used",
+    "object": "single nvidia titan x gpu card",
+    "chunk": 6
+  },
+  {
+    "subject": "single nvidia titan x gpu card",
+    "predicate": "is a type",
+    "object": "gpu card",
+    "chunk": 6
+  },
+  {
+    "subject": "table 2",
+    "predicate": "shows",
+    "object": "relative l2 error",
+    "chunk": 6
+  },
+  {
+    "subject": "table 2",
+    "predicate": "relates to",
+    "object": "burgers' equation",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "varies with",
+    "object": "number of hidden layers",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "varies with",
+    "object": "number of neurons per layer",
+    "chunk": 6
+  },
+  {
+    "subject": "total number of training points nu",
+    "predicate": "is fixed to",
+    "object": "100",
+    "chunk": 6
+  },
+  {
+    "subject": "total number of collocation points nf",
+    "predicate": "is fixed to",
+    "object": "10,000",
+    "chunk": 6
+  },
+  {
+    "subject": "nf=0 case",
+    "predicate": "corresponds to",
+    "object": "standard neural network model",
+    "chunk": 6
+  },
+  {
+    "subject": "standard neural network model",
+    "predicate": "does not use",
+    "object": "underlying governing equation",
+    "chunk": 6
+  },
+  {
+    "subject": "standard neural network model",
+    "predicate": "is a",
+    "object": "neural network",
+    "chunk": 6
+  },
+  {
+    "subject": "number of layers",
+    "predicate": "increases",
+    "object": "neural network capacity",
+    "chunk": 6
+  },
+  {
+    "subject": "number of neurons",
+    "predicate": "increases",
+    "object": "neural network capacity",
+    "chunk": 6
+  },
+  {
+    "subject": "neural network capacity",
+    "predicate": "approximates",
+    "object": "complex functions",
+    "chunk": 6
+  },
+  {
+    "subject": "table 1",
+    "predicate": "shows",
+    "object": "relative l2 error",
+    "chunk": 6
+  },
+  {
+    "subject": "table 1",
+    "predicate": "relates to",
+    "object": "burgers' equation",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is between",
+    "object": "predicted solution u(t, x)",
+    "chunk": 6
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is between",
+    "object": "exact solution u(t, x)",
+    "chunk": 6
+  },
+  {
+    "subject": "network architecture",
+    "predicate": "is fixed to",
+    "object": "9 layers",
+    "chunk": 6
+  },
+  {
+    "subject": "9 layers",
+    "predicate": "contain",
+    "object": "20 neurons per hidden layer",
+    "chunk": 6
+  },
+  {
+    "subject": "table 2",
+    "predicate": "shows",
+    "object": "burgers' equation",
+    "chunk": 7
+  },
+  {
+    "subject": "table 2",
+    "predicate": "contains",
+    "object": "relativel2 error",
+    "chunk": 7
+  },
+  {
+    "subject": "relativel2 error",
+    "predicate": "is between",
+    "object": "predicted solution u(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "relativel2 error",
+    "predicate": "is between",
+    "object": "exact solution u(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "relativel2 error",
+    "predicate": "depends on",
+    "object": "number of hidden layers",
+    "chunk": 7
+  },
+  {
+    "subject": "relativel2 error",
+    "predicate": "depends on",
+    "object": "number of neurons per layer",
+    "chunk": 7
+  },
+  {
+    "subject": "total number of training points",
+    "predicate": "is fixed to",
+    "object": "nu = 100",
+    "chunk": 7
+  },
+  {
+    "subject": "total number of collocation points",
+    "predicate": "is fixed to",
+    "object": "nf = 10,000",
+    "chunk": 7
+  },
+  {
+    "subject": "predictive accuracy",
+    "predicate": "is",
+    "object": "increased",
+    "chunk": 7
+  },
+  {
+    "subject": "example 2.2",
+    "predicate": "is about",
+    "object": "schr\u00f6dinger equation",
+    "chunk": 7
+  },
+  {
+    "subject": "example 2.2",
+    "predicate": "highlights",
+    "object": "ability of method",
+    "chunk": 7
+  },
+  {
+    "subject": "method",
+    "predicate": "handles",
+    "object": "periodic boundary conditions",
+    "chunk": 7
+  },
+  {
+    "subject": "method",
+    "predicate": "handles",
+    "object": "complex-valued solutions",
+    "chunk": 7
+  },
+  {
+    "subject": "method",
+    "predicate": "handles",
+    "object": "different types of nonlinearities",
+    "chunk": 7
+  },
+  {
+    "subject": "different types of nonlinearities",
+    "predicate": "are in",
+    "object": "governing partial differential equations",
+    "chunk": 7
+  },
+  {
+    "subject": "one-dimensional nonlinear schr\u00f6dinger equation",
+    "predicate": "is a",
+    "object": "classical field equation",
+    "chunk": 7
+  },
+  {
+    "subject": "classical field equation",
+    "predicate": "studies",
+    "object": "quantum mechanical systems",
+    "chunk": 7
+  },
+  {
+    "subject": "quantum mechanical systems",
+    "predicate": "includes",
+    "object": "nonlinear wave propagation",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear wave propagation",
+    "predicate": "occurs in",
+    "object": "optical fibers",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear wave propagation",
+    "predicate": "occurs in",
+    "object": "waveguides",
+    "chunk": 7
+  },
+  {
+    "subject": "quantum mechanical systems",
+    "predicate": "includes",
+    "object": "bose-einstein condensates",
+    "chunk": 7
+  },
+  {
+    "subject": "quantum mechanical systems",
+    "predicate": "includes",
+    "object": "plasma waves",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear term",
+    "predicate": "arises in",
+    "object": "optics",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear term",
+    "predicate": "arises from",
+    "object": "intensity dependent index of refraction",
+    "chunk": 7
+  },
+  {
+    "subject": "intensity dependent index of refraction",
+    "predicate": "belongs to",
+    "object": "given material",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear term",
+    "predicate": "applies to",
+    "object": "bose-einstein condensates",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear term",
+    "predicate": "results from",
+    "object": "mean-field interactions",
+    "chunk": 7
+  },
+  {
+    "subject": "mean-field interactions",
+    "predicate": "belong to",
+    "object": "interacting n-body system",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear schr\u00f6dinger equation",
+    "predicate": "uses",
+    "object": "periodic boundary conditions",
+    "chunk": 7
+  },
+  {
+    "subject": "nonlinear schr\u00f6dinger equation",
+    "predicate": "is defined by",
+    "object": "equation (5)",
+    "chunk": 7
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "is",
+    "object": "iht + 0.5hxx +|h|2h = 0",
+    "chunk": 7
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "has domain",
+    "object": "x \u2208 [\u22125, 5]",
+    "chunk": 7
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "has domain",
+    "object": "t \u2208 [0, \u03c0/2]",
+    "chunk": 7
+  },
+  {
+    "subject": "h(t, x)",
+    "predicate": "is a",
+    "object": "complex-valued solution",
+    "chunk": 7
+  },
+  {
+    "subject": "h(t, x)",
+    "predicate": "has initial condition",
+    "object": "h(0, x) = 2 sech(x)",
+    "chunk": 7
+  },
+  {
+    "subject": "h(t, x)",
+    "predicate": "satisfies",
+    "object": "h(t, \u22125) = h(t, 5)",
+    "chunk": 7
+  },
+  {
+    "subject": "h(t, x)",
+    "predicate": "satisfies",
+    "object": "hx(t, \u22125) = hx(t, 5)",
+    "chunk": 7
+  },
+  {
+    "subject": "f(t, x)",
+    "predicate": "is defined as",
+    "object": "iht + 0.5hxx +|h|2h",
+    "chunk": 7
+  },
+  {
+    "subject": "complex-valued neural network prior",
+    "predicate": "is placed on",
+    "object": "h(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "u",
+    "predicate": "denotes",
+    "object": "real part of h",
+    "chunk": 7
+  },
+  {
+    "subject": "v",
+    "predicate": "denotes",
+    "object": "imaginary part of h",
+    "chunk": 7
+  },
+  {
+    "subject": "multi-out neural network prior",
+    "predicate": "is placed on",
+    "object": "h(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "h(t, x)",
+    "predicate": "equals",
+    "object": "[u(t, x) v(t, x)]",
+    "chunk": 7
+  },
+  {
+    "subject": "f(t, x)",
+    "predicate": "is a",
+    "object": "complex-valued physic informed neural network",
+    "chunk": 7
+  },
+  {
+    "subject": "f(t, x)",
+    "predicate": "is",
+    "object": "multi-output",
+    "chunk": 7
+  },
+  {
+    "subject": "shared parameters",
+    "predicate": "belong to",
+    "object": "neural network h(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "shared parameters",
+    "predicate": "belong to",
+    "object": "neural network f(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "shared parameters",
+    "predicate": "learned by minimizing",
+    "object": "mean squared error loss",
+    "chunk": 7
+  },
+  {
+    "subject": "mean squared error loss",
+    "predicate": "is defined by",
+    "object": "equation (6)",
+    "chunk": 7
+  },
+  {
+    "subject": "mean squared error loss",
+    "predicate": "equals",
+    "object": "mse0 + mseb + msef",
+    "chunk": 7
+  },
+  {
+    "subject": "mse0",
+    "predicate": "is defined by",
+    "object": "initial data loss formula",
+    "chunk": 7
+  },
+  {
+    "subject": "mseb",
+    "predicate": "is defined by",
+    "object": "boundary condition loss formula",
+    "chunk": 7
+  },
+  {
+    "subject": "msef",
+    "predicate": "is defined by",
+    "object": "schr\u00f6dinger equation collocation loss formula",
+    "chunk": 7
+  },
+  {
+    "subject": "{xi0, hi0}",
+    "predicate": "denotes",
+    "object": "initial data",
+    "chunk": 7
+  },
+  {
+    "subject": "{tib}",
+    "predicate": "corresponds to",
+    "object": "collocation points on the boundary",
+    "chunk": 7
+  },
+  {
+    "subject": "{tif, xif}",
+    "predicate": "represents",
+    "object": "collocation points on f(t, x)",
+    "chunk": 7
+  },
+  {
+    "subject": "mse0",
+    "predicate": "corresponds to",
+    "object": "loss on the initial data",
+    "chunk": 7
+  },
+  {
+    "subject": "mseb",
+    "predicate": "enforces",
+    "object": "periodic boundary conditions",
+    "chunk": 7
+  },
+  {
+    "subject": "msef",
+    "predicate": "penalizes",
+    "object": "schr\u00f6dinger equation not satisfied",
+    "chunk": 7
+  },
+  {
+    "subject": "schr\u00f6dinger equation not satisfied",
+    "predicate": "occurs on",
+    "object": "collocation points",
+    "chunk": 7
+  },
+  {
+    "subject": "accuracy of method",
+    "predicate": "is assessed",
+    "object": "by simulation",
+    "chunk": 7
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "was",
+    "object": "simulated",
+    "chunk": 7
+  },
+  {
+    "subject": "simulation",
+    "predicate": "used",
+    "object": "conventional spectral methods",
+    "chunk": 7
+  },
+  {
+    "subject": "simulation",
+    "predicate": "created",
+    "object": "high-resolution data set",
+    "chunk": 7
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "was",
+    "object": "integrated",
+    "chunk": 7
+  },
+  {
+    "subject": "integration",
+    "predicate": "started from",
+    "object": "initial state h(0, x) = 2 sech(x)",
+    "chunk": 7
+  },
+  {
+    "subject": "integration",
+    "predicate": "assumed",
+    "object": "periodic boundary conditions",
+    "chunk": 7
+  },
+  {
+    "subject": "integration",
+    "predicate": "reached",
+    "object": "final time t = \u03c0/2",
+    "chunk": 7
+  },
+  {
+    "subject": "integration",
+    "predicate": "used",
+    "object": "chebfun package [22]",
+    "chunk": 7
+  },
+  {
+    "subject": "chebfun package [22]",
+    "predicate": "used",
+    "object": "spectral fourier discretization",
+    "chunk": 7
+  },
+  {
+    "subject": "spectral fourier discretization",
+    "predicate": "used",
+    "object": "256 modes",
+    "chunk": 7
+  },
+  {
+    "subject": "spectral fourier discretization",
+    "predicate": "is",
+    "object": "fourth-order",
+    "chunk": 7
+  },
+  {
+    "subject": "initial state h(0,x)",
+    "predicate": "equals",
+    "object": "2 sech(x)",
+    "chunk": 8
+  },
+  {
+    "subject": "periodic boundary conditions",
+    "predicate": "include",
+    "object": "h(t,\u22125) = h(t, 5)",
+    "chunk": 8
+  },
+  {
+    "subject": "periodic boundary conditions",
+    "predicate": "include",
+    "object": "hx(t,\u22125) = hx(t, 5)",
+    "chunk": 8
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "integrated up to",
+    "object": "final time t",
+    "chunk": 8
+  },
+  {
+    "subject": "final time t",
+    "predicate": "equals",
+    "object": "\u03c0/2",
+    "chunk": 8
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "integrated using",
+    "object": "chebfun package",
+    "chunk": 8
+  },
+  {
+    "subject": "chebfun package",
+    "predicate": "uses",
+    "object": "spectral fourier discretization",
+    "chunk": 8
+  },
+  {
+    "subject": "spectral fourier discretization",
+    "predicate": "has",
+    "object": "256 modes",
+    "chunk": 8
+  },
+  {
+    "subject": "integration",
+    "predicate": "uses",
+    "object": "fourth-order explicit runge-kutta temporal integrator",
+    "chunk": 8
+  },
+  {
+    "subject": "fourth-order explicit runge-kutta temporal integrator",
+    "predicate": "has time-step",
+    "object": "\u2206 t",
+    "chunk": 8
+  },
+  {
+    "subject": "time-step \u2206 t",
+    "predicate": "equals",
+    "object": "\u03c0/2 \u00b7 10\u22126",
+    "chunk": 8
+  },
+  {
+    "subject": "measurements {xi 0,h i 0}n0 i=1",
+    "predicate": "observed under",
+    "object": "data-driven setting",
+    "chunk": 8
+  },
+  {
+    "subject": "measurements {xi 0,h i 0}n0 i=1",
+    "predicate": "are of",
+    "object": "latent function h(t,x)",
+    "chunk": 8
+  },
+  {
+    "subject": "latent function h(t,x)",
+    "predicate": "measured at",
+    "object": "time t = 0",
+    "chunk": 8
+  },
+  {
+    "subject": "training set",
+    "predicate": "consists of",
+    "object": "n0",
+    "chunk": 8
+  },
+  {
+    "subject": "n0",
+    "predicate": "equals",
+    "object": "50 data points",
+    "chunk": 8
+  },
+  {
+    "subject": "50 data points",
+    "predicate": "are on",
+    "object": "h(0,x)",
+    "chunk": 8
+  },
+  {
+    "subject": "50 data points",
+    "predicate": "parsed from",
+    "object": "high-resolution data-set",
+    "chunk": 8
+  },
+  {
+    "subject": "training set",
+    "predicate": "includes",
+    "object": "nb",
+    "chunk": 8
+  },
+  {
+    "subject": "nb",
+    "predicate": "equals",
+    "object": "50 collocation points",
+    "chunk": 8
+  },
+  {
+    "subject": "50 collocation points",
+    "predicate": "enforce",
+    "object": "periodic boundaries",
+    "chunk": 8
+  },
+  {
+    "subject": "nf",
+    "predicate": "equals",
+    "object": "20,000 collocation points",
+    "chunk": 8
+  },
+  {
+    "subject": "20,000 collocation points",
+    "predicate": "enforce",
+    "object": "equation (5)",
+    "chunk": 8
+  },
+  {
+    "subject": "equation (5)",
+    "predicate": "enforced inside",
+    "object": "solution domain",
+    "chunk": 8
+  },
+  {
+    "subject": "randomly sampled point locations",
+    "predicate": "generated using",
+    "object": "space filling latin hypercube sampling strategy",
+    "chunk": 8
+  },
+  {
+    "subject": "goal",
+    "predicate": "is to infer",
+    "object": "spatio-temporal solution h(t,x)",
+    "chunk": 8
+  },
+  {
+    "subject": "spatio-temporal solution h(t,x)",
+    "predicate": "is of",
+    "object": "schr\u00f6dinger equation (5)",
+    "chunk": 8
+  },
+  {
+    "subject": "latent function h(t,x)",
+    "predicate": "represented by",
+    "object": "u(t,x)",
+    "chunk": 8
+  },
+  {
+    "subject": "latent function h(t,x)",
+    "predicate": "represented by",
+    "object": "v(t,x)",
+    "chunk": 8
+  },
+  {
+    "subject": "latent function h(t,x)",
+    "predicate": "represented using",
+    "object": "5-layer deep neural network",
+    "chunk": 8
+  },
+  {
+    "subject": "5-layer deep neural network",
+    "predicate": "has",
+    "object": "100 neurons per layer",
+    "chunk": 8
+  },
+  {
+    "subject": "5-layer deep neural network",
+    "predicate": "uses",
+    "object": "hyperbolic tangent activation function",
+    "chunk": 8
+  },
+  {
+    "subject": "figure 2",
+    "predicate": "summarizes",
+    "object": "results",
+    "chunk": 8
+  },
+  {
+    "subject": "results",
+    "predicate": "are of",
+    "object": "experiment",
+    "chunk": 8
+  },
+  {
+    "subject": "top panel of figure 2",
+    "predicate": "shows magnitude of",
+    "object": "predicted spatio-temporal solution |h(t,x)|",
+    "chunk": 8
+  },
+  {
+    "subject": "predicted spatio-temporal solution |h(t,x)|",
+    "predicate": "equals",
+    "object": "\u221a u2(t,x ) +v2(t,x )",
+    "chunk": 8
+  },
+  {
+    "subject": "top panel of figure 2",
+    "predicate": "shows locations of",
+    "object": "initial training data",
+    "chunk": 8
+  },
+  {
+    "subject": "top panel of figure 2",
+    "predicate": "shows locations of",
+    "object": "boundary training data",
+    "chunk": 8
+  },
+  {
+    "subject": "prediction error",
+    "predicate": "validated against",
+    "object": "test data",
+    "chunk": 8
+  },
+  {
+    "subject": "prediction error",
+    "predicate": "measured at",
+    "object": "1.97 \u00b7 10\u22123",
+    "chunk": 8
+  },
+  {
+    "subject": "1.97 \u00b7 10\u22123",
+    "predicate": "is in",
+    "object": "relative l2-norm",
+    "chunk": 8
+  },
+  {
+    "subject": "detailed assessment",
+    "predicate": "is of",
+    "object": "predicted solution",
+    "chunk": 8
+  },
+  {
+    "subject": "detailed assessment",
+    "predicate": "presented in",
+    "object": "bottom panel of figure 2",
+    "chunk": 8
+  },
+  {
+    "subject": "comparison",
+    "predicate": "is between",
+    "object": "exact solution",
+    "chunk": 8
+  },
+  {
+    "subject": "comparison",
+    "predicate": "is between",
+    "object": "predicted solution",
+    "chunk": 8
+  },
+  {
+    "subject": "comparison",
+    "predicate": "occurs at",
+    "object": "time instant t = 0.59",
+    "chunk": 8
+  },
+  {
+    "subject": "comparison",
+    "predicate": "occurs at",
+    "object": "time instant t = 0.79",
+    "chunk": 8
+  },
+  {
+    "subject": "comparison",
+    "predicate": "occurs at",
+    "object": "time instant t = 0.98",
+    "chunk": 8
+  },
+  {
+    "subject": "physics informed neural network",
+    "predicate": "uses",
+    "object": "initial data",
+    "chunk": 8
+  },
+  {
+    "subject": "physics informed neural network",
+    "predicate": "captures",
+    "object": "nonlinear behavior",
+    "chunk": 8
+  },
+  {
+    "subject": "nonlinear behavior",
+    "predicate": "is of",
+    "object": "schr\u00f6dinger equation",
+    "chunk": 8
+  },
+  {
+    "subject": "limitation",
+    "predicate": "is of",
+    "object": "continuous time neural network models",
+    "chunk": 8
+  },
+  {
+    "subject": "limitation",
+    "predicate": "stems from",
+    "object": "large number of collocation points nf",
+    "chunk": 8
+  },
+  {
+    "subject": "large number of collocation points nf",
+    "predicate": "enforces",
+    "object": "physics informed constraints",
+    "chunk": 8
+  },
+  {
+    "subject": "physics informed constraints",
+    "predicate": "are in",
+    "object": "spatio-temporal domain",
+    "chunk": 8
+  },
+  {
+    "subject": "large number of collocation points nf",
+    "predicate": "poses no issues",
+    "object": "one or two spatial dimensions",
+    "chunk": 8
+  },
+  {
+    "subject": "large number of collocation points nf",
+    "predicate": "introduces",
+    "object": "severe bottleneck",
+    "chunk": 8
+  },
+  {
+    "subject": "severe bottleneck",
+    "predicate": "occurs in",
+    "object": "higher dimensional problems",
+    "chunk": 8
+  },
+  {
+    "subject": "figure 2",
+    "predicate": "shows",
+    "object": "schr\u00f6dinger equation",
+    "chunk": 8
+  },
+  {
+    "subject": "figure 2",
+    "predicate": "shows",
+    "object": "data (150 points)",
+    "chunk": 8
+  },
+  {
+    "subject": "loss function (12)",
+    "predicate": "trains",
+    "object": "networks of (10), (11)",
+    "chunk": 10
+  },
+  {
+    "subject": "loss function (12)",
+    "predicate": "predicts",
+    "object": "solution at time tn+1",
+    "chunk": 10
+  },
+  {
+    "subject": "runge-kutta time-stepping scheme",
+    "predicate": "uses",
+    "object": "prediction",
+    "chunk": 10
+  },
+  {
+    "subject": "runge-kutta time-stepping scheme",
+    "predicate": "uses as",
+    "object": "initial data",
+    "chunk": 10
+  },
+  {
+    "subject": "runge-kutta time-stepping scheme",
+    "predicate": "predicts",
+    "object": "u(tn+2,x)",
+    "chunk": 10
+  },
+  {
+    "subject": "runge-kutta time-stepping scheme",
+    "predicate": "predicts",
+    "object": "u(tn+3,x)",
+    "chunk": 10
+  },
+  {
+    "subject": "steps",
+    "predicate": "occur in",
+    "object": "classical numerical analysis",
+    "chunk": 10
+  },
+  {
+    "subject": "steps",
+    "predicate": "confined to be",
+    "object": "small",
+    "chunk": 10
+  },
+  {
+    "subject": "small steps",
+    "predicate": "due to",
+    "object": "stability constraints",
+    "chunk": 10
+  },
+  {
+    "subject": "small steps",
+    "predicate": "due to",
+    "object": "computational complexity constraints",
+    "chunk": 10
+  },
+  {
+    "subject": "stability constraints",
+    "predicate": "apply to",
+    "object": "explicit schemes",
+    "chunk": 10
+  },
+  {
+    "subject": "computational complexity constraints",
+    "predicate": "apply to",
+    "object": "implicit formulations",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit formulations",
+    "predicate": "referenced in",
+    "object": "[24]",
+    "chunk": 10
+  },
+  {
+    "subject": "constraints",
+    "predicate": "become",
+    "object": "severe",
+    "chunk": 10
+  },
+  {
+    "subject": "constraints",
+    "predicate": "increase with",
+    "object": "total number of runge-kutta stages q",
+    "chunk": 10
+  },
+  {
+    "subject": "problems of practical interest",
+    "predicate": "require",
+    "object": "thousands to millions of steps",
+    "chunk": 10
+  },
+  {
+    "subject": "thousands to millions of steps",
+    "predicate": "resolve",
+    "object": "solution up to final time",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "contrast with",
+    "object": "classical methods",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "employ",
+    "object": "arbitrarily large number of stages",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "require",
+    "object": "no extra cost",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "enable",
+    "object": "very large time steps",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "retain",
+    "object": "stability",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "retain",
+    "object": "high predictive accuracy",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "resolve",
+    "object": "entire spatio-temporal solution",
+    "chunk": 10
+  },
+  {
+    "subject": "entire spatio-temporal solution",
+    "predicate": "resolved in",
+    "object": "single step",
+    "chunk": 10
+  },
+  {
+    "subject": "process",
+    "predicate": "applied to",
+    "object": "burgers\u2019 equation",
+    "chunk": 10
+  },
+  {
+    "subject": "result",
+    "predicate": "presented in",
+    "object": "figure 3",
+    "chunk": 10
+  },
+  {
+    "subject": "initial data",
+    "predicate": "set is",
+    "object": "nn = 250",
+    "chunk": 10
+  },
+  {
+    "subject": "initial data",
+    "predicate": "starts at",
+    "object": "t = 0.1",
+    "chunk": 10
+  },
+  {
+    "subject": "physics informed neural network",
+    "predicate": "induced by",
+    "object": "implicit runge-kutta scheme",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta scheme",
+    "predicate": "has",
+    "object": "500 stages",
+    "chunk": 10
+  },
+  {
+    "subject": "physics informed neural network",
+    "predicate": "predicts",
+    "object": "solution",
+    "chunk": 10
+  },
+  {
+    "subject": "solution",
+    "predicate": "predicted at",
+    "object": "time t = 0.9",
+    "chunk": 10
+  },
+  {
+    "subject": "prediction",
+    "predicate": "occurs in",
+    "object": "single step",
+    "chunk": 10
+  },
+  {
+    "subject": "theoretical error estimates",
+    "predicate": "predict",
+    "object": "temporal error accumulation",
+    "chunk": 10
+  },
+  {
+    "subject": "temporal error accumulation",
+    "predicate": "is",
+    "object": "o(\u2206t2q)",
+    "chunk": 10
+  },
+  {
+    "subject": "theoretical error estimates",
+    "predicate": "referenced in",
+    "object": "[24]",
+    "chunk": 10
+  },
+  {
+    "subject": "error",
+    "predicate": "is below",
+    "object": "machine precision",
+    "chunk": 10
+  },
+  {
+    "subject": "error value",
+    "predicate": "approximates",
+    "object": "10^-97",
+    "chunk": 10
+  },
+  {
+    "subject": "\u2206t2q",
+    "predicate": "equals",
+    "object": "0.8^1000",
+    "chunk": 10
+  },
+  {
+    "subject": "0.8^1000",
+    "predicate": "approximates",
+    "object": "10^-97",
+    "chunk": 10
+  },
+  {
+    "subject": "implicit runge-kutta scheme",
+    "predicate": "is",
+    "object": "high-order",
+    "chunk": 10
+  },
+  {
+    "subject": "number of parameters",
+    "predicate": "is in",
+    "object": "last layer of neural network",
+    "chunk": 10
+  },
+  {
+    "subject": "number of parameters",
+    "predicate": "increases",
+    "object": "linearly",
+    "chunk": 10
+  },
+  {
+    "subject": "number of parameters",
+    "predicate": "increases with",
+    "object": "total number of stages",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3",
+    "predicate": "shows",
+    "object": "burgers equation",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3 top panel",
+    "predicate": "shows",
+    "object": "solution u(t, x)",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3 top panel",
+    "predicate": "shows",
+    "object": "initial training snapshot",
+    "chunk": 10
+  },
+  {
+    "subject": "initial training snapshot",
+    "predicate": "is at",
+    "object": "t = 0.1",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3 top panel",
+    "predicate": "shows",
+    "object": "final prediction snapshot",
+    "chunk": 10
+  },
+  {
+    "subject": "final prediction snapshot",
+    "predicate": "is at",
+    "object": "t = 0.9",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3 bottom panel",
+    "predicate": "shows",
+    "object": "initial training data",
+    "chunk": 10
+  },
+  {
+    "subject": "figure 3 bottom panel",
+    "predicate": "shows",
+    "object": "final prediction",
+    "chunk": 10
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is",
+    "object": "8.2 * 10^-4",
+    "chunk": 10
+  },
+  {
+    "subject": "smooth initial data",
+    "predicate": "is at",
+    "object": "t = 0.1",
+    "chunk": 10
+  },
+  {
+    "subject": "prediction",
+    "predicate": "uses",
+    "object": "single time-step",
+    "chunk": 10
+  },
+  {
+    "subject": "prediction",
+    "predicate": "targets",
+    "object": "nearly discontinuous solution",
+    "chunk": 10
+  },
+  {
+    "subject": "nearly discontinuous solution",
+    "predicate": "is at",
+    "object": "t = 0.9",
+    "chunk": 10
+  },
+  {
+    "subject": "prediction",
+    "predicate": "achieves",
+    "object": "relative l2 error of 8.2*10^-4",
+    "chunk": 10
+  },
+  {
+    "subject": "relative l2 error of 8.2*10^-4",
+    "predicate": "is lower than",
+    "object": "error reported in [9]",
+    "chunk": 10
+  },
+  {
+    "subject": "relative l2 error of 8.2*10^-4",
+    "predicate": "attributed to",
+    "object": "neural network capacity",
+    "chunk": 10
+  },
+  {
+    "subject": "neural network capacity",
+    "predicate": "approximates",
+    "object": "u(t,x)",
+    "chunk": 10
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is",
+    "object": "8.2e-04",
+    "chunk": 11
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "occurs in",
+    "object": "single time-step",
+    "chunk": 11
+  },
+  {
+    "subject": "single time-step",
+    "predicate": "is at time",
+    "object": "0.9",
+    "chunk": 11
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is lower than",
+    "object": "error reported in [9]",
+    "chunk": 11
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "attributed to",
+    "object": "neural network capacity",
+    "chunk": 11
+  },
+  {
+    "subject": "neural network capacity",
+    "predicate": "approximates",
+    "object": "u(t,x)",
+    "chunk": 11
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "attributed to",
+    "object": "sum of squared errors loss",
+    "chunk": 11
+  },
+  {
+    "subject": "sum of squared errors loss",
+    "predicate": "allows",
+    "object": "interpolation of training data",
+    "chunk": 11
+  },
+  {
+    "subject": "network architecture",
+    "predicate": "consists of",
+    "object": "4 layers",
+    "chunk": 11
+  },
+  {
+    "subject": "network architecture",
+    "predicate": "has",
+    "object": "50 neurons",
+    "chunk": 11
+  },
+  {
+    "subject": "50 neurons",
+    "predicate": "are in",
+    "object": "each hidden layer",
+    "chunk": 11
+  },
+  {
+    "subject": "table 3",
+    "predicate": "summarizes",
+    "object": "burgers' equation results",
+    "chunk": 11
+  },
+  {
+    "subject": "table 3",
+    "predicate": "measures",
+    "object": "relative final prediction error",
+    "chunk": 11
+  },
+  {
+    "subject": "relative final prediction error",
+    "predicate": "uses",
+    "object": "l2 norm",
+    "chunk": 11
+  },
+  {
+    "subject": "relative final prediction error",
+    "predicate": "varies by",
+    "object": "number of hidden layers",
+    "chunk": 11
+  },
+  {
+    "subject": "relative final prediction error",
+    "predicate": "varies by",
+    "object": "neurons in each layer",
+    "chunk": 11
+  },
+  {
+    "subject": "number of runge-kutta stages (q)",
+    "predicate": "is fixed to",
+    "object": "500",
+    "chunk": 11
+  },
+  {
+    "subject": "time-step size (delta t)",
+    "predicate": "is fixed to",
+    "object": "0.8",
+    "chunk": 11
+  },
+  {
+    "subject": "detailed systematic study",
+    "predicate": "quantifies effect of",
+    "object": "different network architectures",
+    "chunk": 11
+  },
+  {
+    "subject": "detailed systematic study",
+    "predicate": "is presented in",
+    "object": "table 3",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "fixed",
+    "object": "runge-kutta stages (q) = 500",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "fixed",
+    "object": "time-step size (delta t) = 0.8",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "varied",
+    "object": "number of hidden layers",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "varied",
+    "object": "number of neurons per layer",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "monitored",
+    "object": "relative l2 error",
+    "chunk": 11
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is for",
+    "object": "predicted solution",
+    "chunk": 11
+  },
+  {
+    "subject": "predicted solution",
+    "predicate": "is at time",
+    "object": "t = 0.9",
+    "chunk": 11
+  },
+  {
+    "subject": "increased neural network capacity",
+    "predicate": "enhances",
+    "object": "predictive accuracy",
+    "chunk": 11
+  },
+  {
+    "subject": "discrete time algorithm performance",
+    "predicate": "is controlled by",
+    "object": "key parameters",
+    "chunk": 11
+  },
+  {
+    "subject": "key parameters",
+    "predicate": "include",
+    "object": "total number of runge-kutta stages (q)",
+    "chunk": 11
+  },
+  {
+    "subject": "key parameters",
+    "predicate": "include",
+    "object": "time-step size (delta t)",
+    "chunk": 11
+  },
+  {
+    "subject": "table 4",
+    "predicate": "summarizes",
+    "object": "extensive systematic study results",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "fixed",
+    "object": "network architecture (4 layers, 50 neurons)",
+    "chunk": 11
+  },
+  {
+    "subject": "network architecture (4 layers, 50 neurons)",
+    "predicate": "has",
+    "object": "4 hidden layers",
+    "chunk": 11
+  },
+  {
+    "subject": "network architecture (4 layers, 50 neurons)",
+    "predicate": "has",
+    "object": "50 neurons per layer",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "varied",
+    "object": "number of runge-kutta stages (q)",
+    "chunk": 11
+  },
+  {
+    "subject": "study authors",
+    "predicate": "varied",
+    "object": "time-step size (delta t)",
+    "chunk": 11
+  },
+  {
+    "subject": "low number of stages",
+    "predicate": "fails to yield",
+    "object": "accurate results",
+    "chunk": 11
+  },
+  {
+    "subject": "failure to yield accurate results",
+    "predicate": "occurs when",
+    "object": "time-step size is large",
+    "chunk": 11
+  },
+  {
+    "subject": "case q = 1",
+    "predicate": "corresponds to",
+    "object": "classical trapezoidal rule",
+    "chunk": 11
+  },
+  {
+    "subject": "case q = 2",
+    "predicate": "corresponds to",
+    "object": "4th-order gauss-legendre method",
+    "chunk": 11
+  },
+  {
+    "subject": "case q = 1",
+    "predicate": "loses accuracy for",
+    "object": "time-steps larger than 0.2",
+    "chunk": 11
+  },
+  {
+    "subject": "case q = 2",
+    "predicate": "loses accuracy for",
+    "object": "time-steps larger than 0.2",
+    "chunk": 11
+  },
+  {
+    "subject": "loss of predictive accuracy",
+    "predicate": "mandates",
+    "object": "solution strategy",
+    "chunk": 11
+  },
+  {
+    "subject": "solution strategy",
+    "predicate": "uses",
+    "object": "multiple time-steps",
+    "chunk": 11
+  },
+  {
+    "subject": "multiple time-steps",
+    "predicate": "are of",
+    "object": "small size",
+    "chunk": 11
+  },
+  {
+    "subject": "number of runge-kutta stages (q)",
+    "predicate": "can be pushed",
+    "object": "32",
+    "chunk": 11
+  },
+  {
+    "subject": "high number of runge-kutta stages",
+    "predicate": "allows",
+    "object": "very large time steps",
+    "chunk": 11
+  },
+  {
+    "subject": "high number of runge-kutta stages",
+    "predicate": "allows",
+    "object": "resolve solution",
+    "chunk": 11
+  },
+  {
+    "subject": "resolve solution",
+    "predicate": "occurs in",
+    "object": "single step",
+    "chunk": 11
+  },
+  {
+    "subject": "resolve solution",
+    "predicate": "retains",
+    "object": "accuracy of predictions",
+    "chunk": 11
+  },
+  {
+    "subject": "numerical stability",
+    "predicate": "is not",
+    "object": "sacrificed",
+    "chunk": 11
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "is a family",
+    "object": "time-stepping schemes",
+    "chunk": 11
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "remains",
+    "object": "a-stable",
+    "chunk": 11
+  },
+  {
+    "subject": "a-stable schemes",
+    "predicate": "are ideal for",
+    "object": "stiff problems",
+    "chunk": 11
+  },
+  {
+    "subject": "implicit runge-kutta schemes",
+    "predicate": "is referenced in",
+    "object": "[24]",
+    "chunk": 11
+  },
+  {
+    "subject": "implicit runge-kutta properties",
+    "predicate": "are unprecedented for",
+    "object": "simple algorithm",
+    "chunk": 11
+  },
+  {
+    "subject": "implicit runge-kutta properties",
+    "predicate": "illustrate",
+    "object": "key highlights",
+    "chunk": 11
+  },
+  {
+    "subject": "key highlights",
+    "predicate": "are of",
+    "object": "discrete time approach",
+    "chunk": 11
+  },
+  {
+    "subject": "runge-kutta stages (un+ci(x))",
+    "predicate": "are",
+    "object": "100",
+    "chunk": 13
+  },
+  {
+    "subject": "runge-kutta stages (un+ci(x))",
+    "predicate": "relate to",
+    "object": "solution at final time (un+1(x))",
+    "chunk": 13
+  },
+  {
+    "subject": "figure 4",
+    "predicate": "summarizes",
+    "object": "predictions",
+    "chunk": 13
+  },
+  {
+    "subject": "predictions",
+    "predicate": "result from",
+    "object": "network",
+    "chunk": 13
+  },
+  {
+    "subject": "network",
+    "predicate": "was trained using",
+    "object": "loss function (equation 14)",
+    "chunk": 13
+  },
+  {
+    "subject": "complex dynamics",
+    "predicate": "lead to",
+    "object": "solution with two sharp internal layers",
+    "chunk": 13
+  },
+  {
+    "subject": "accurate prediction",
+    "predicate": "is obtained for",
+    "object": "solution at t = 0.9",
+    "chunk": 13
+  },
+  {
+    "subject": "accurate prediction",
+    "predicate": "uses",
+    "object": "scattered measurements at t = 0.1",
+    "chunk": 13
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "are",
+    "object": "universal function approximators",
+    "chunk": 13
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "encode",
+    "object": "physical laws",
+    "chunk": 13
+  },
+  {
+    "subject": "physical laws",
+    "predicate": "govern",
+    "object": "data-set",
+    "chunk": 13
+  },
+  {
+    "subject": "physics informed neural networks",
+    "predicate": "are described by",
+    "object": "partial differential equations",
+    "chunk": 13
+  },
+  {
+    "subject": "data-driven algorithms",
+    "predicate": "infer solutions to",
+    "object": "nonlinear partial differential equations",
+    "chunk": 13
+  },
+  {
+    "subject": "data-driven algorithms",
+    "predicate": "construct",
+    "object": "physics-informed surrogate models",
+    "chunk": 13
+  },
+  {
+    "subject": "physics-informed surrogate models",
+    "predicate": "are",
+    "object": "computationally efficient",
+    "chunk": 13
+  },
+  {
+    "subject": "resulting methods",
+    "predicate": "showcase",
+    "object": "promising results",
+    "chunk": 13
+  },
+  {
+    "subject": "promising results",
+    "predicate": "are found in",
+    "object": "computational science",
+    "chunk": 13
+  },
+  {
+    "subject": "resulting methods",
+    "predicate": "open path for",
+    "object": "deep learning",
+    "chunk": 13
+  },
+  {
+    "subject": "deep learning",
+    "predicate": "is endowed with",
+    "object": "mathematical physics capacity",
+    "chunk": 13
+  },
+  {
+    "subject": "mathematical physics capacity",
+    "predicate": "models",
+    "object": "the world",
+    "chunk": 13
+  },
+  {
+    "subject": "deep learning technology",
+    "predicate": "is growing",
+    "object": "rapidly",
+    "chunk": 13
+  },
+  {
+    "subject": "deep learning technology",
+    "predicate": "involves",
+    "object": "methodological developments",
+    "chunk": 13
+  },
+  {
+    "subject": "deep learning technology",
+    "predicate": "involves",
+    "object": "algorithmic developments",
+    "chunk": 13
+  },
+  {
+    "subject": "contribution",
+    "predicate": "benefits",
+    "object": "practitioners",
+    "chunk": 13
+  },
+  {
+    "subject": "practitioners",
+    "predicate": "are across",
+    "object": "scientific domains",
+    "chunk": 13
+  },
+  {
+    "subject": "specific applications",
+    "predicate": "include",
+    "object": "data-driven forecasting",
+    "chunk": 13
+  },
+  {
+    "subject": "specific applications",
+    "predicate": "include",
+    "object": "model predictive control",
+    "chunk": 13
+  },
+  {
+    "subject": "specific applications",
+    "predicate": "include",
+    "object": "multi-scale modeling and simulation",
+    "chunk": 13
+  },
+  {
+    "subject": "data-driven forecasting",
+    "predicate": "is of",
+    "object": "physical processes",
+    "chunk": 13
+  },
+  {
+    "subject": "proposed methods",
+    "predicate": "are not replacements",
+    "object": "classical numerical methods",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "solve",
+    "object": "partial differential equations",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "include",
+    "object": "finite elements",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "include",
+    "object": "spectral methods",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "matured over",
+    "object": "50 years",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "meet",
+    "object": "robustness standards",
+    "chunk": 13
+  },
+  {
+    "subject": "classical numerical methods",
+    "predicate": "meet",
+    "object": "computational efficiency standards",
+    "chunk": 13
+  },
+  {
+    "subject": "classical methods",
+    "predicate": "can coexist with",
+    "object": "deep neural networks",
+    "chunk": 13
+  },
+  {
+    "subject": "classical methods",
+    "predicate": "include",
+    "object": "runge-kutta time-stepping schemes",
+    "chunk": 13
+  },
+  {
+    "subject": "runge-kutta time-stepping schemes",
+    "predicate": "can coexist with",
+    "object": "deep neural networks",
+    "chunk": 13
+  },
+  {
+    "subject": "classical methods",
+    "predicate": "offer",
+    "object": "invaluable intuition",
+    "chunk": 13
+  },
+  {
+    "subject": "invaluable intuition",
+    "predicate": "constructs",
+    "object": "structured predictive algorithms",
+    "chunk": 13
+  },
+  {
+    "subject": "deep neural networks",
+    "predicate": "have",
+    "object": "implementation simplicity",
+    "chunk": 13
+  },
+  {
+    "subject": "implementation simplicity",
+    "predicate": "favors",
+    "object": "rapid development",
+    "chunk": 13
+  },
+  {
+    "subject": "implementation simplicity",
+    "predicate": "favors",
+    "object": "testing of new ideas",
+    "chunk": 13
+  },
+  {
+    "subject": "rapid development",
+    "predicate": "opens path for",
+    "object": "data-driven scientific computing era",
+    "chunk": 13
+  },
+  {
+    "subject": "figure 4",
+    "predicate": "shows",
+    "object": "allen-cahn equation",
+    "chunk": 13
+  },
+  {
+    "subject": "allen-cahn equation",
+    "predicate": "has",
+    "object": "solution u(t, x)",
+    "chunk": 13
+  },
+  {
+    "subject": "solution u(t, x)",
+    "predicate": "is shown with",
+    "object": "initial training snapshot (t=0.1)",
+    "chunk": 13
+  },
+  {
+    "subject": "solution u(t, x)",
+    "predicate": "is shown with",
+    "object": "final prediction snapshot (t=0.9)",
+    "chunk": 13
+  },
+  {
+    "subject": "relative l2 error",
+    "predicate": "is",
+    "object": "6.99e-3",
+    "chunk": 13
+  },
+  {
+    "subject": "orlandi",
+    "predicate": "authored",
+    "object": "spectral and finite difference solutions of the burgers equation",
+    "chunk": 15
+  },
+  {
+    "subject": "a. patera",
+    "predicate": "authored",
+    "object": "spectral and finite difference solutions of the burgers equation",
+    "chunk": 15
+  },
+  {
+    "subject": "spectral and finite difference solutions of the burgers equation",
+    "predicate": "published in",
+    "object": "computers & fluids 14",
+    "chunk": 15
+  },
+  {
+    "subject": "spectral and finite difference solutions of the burgers equation",
+    "predicate": "published",
+    "object": "1986",
+    "chunk": 15
+  },
+  {
+    "subject": "spectral and finite difference solutions of the burgers equation",
+    "predicate": "concerns",
+    "object": "burgers equation",
+    "chunk": 15
+  },
+  {
+    "subject": "spectral and finite difference solutions of the burgers equation",
+    "predicate": "uses",
+    "object": "spectral solutions",
+    "chunk": 15
+  },
+  {
+    "subject": "spectral and finite difference solutions of the burgers equation",
+    "predicate": "uses",
+    "object": "finite difference solutions",
+    "chunk": 15
+  },
+  {
+    "subject": "s. h. rudy",
+    "predicate": "authored",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "s. l. brunton",
+    "predicate": "authored",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "j. l. proctor",
+    "predicate": "authored",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "j. n. kutz",
+    "predicate": "authored",
+    "object": "data-driven discovery of partial differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "published in",
+    "object": "science advances 3",
+    "chunk": 15
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "published",
+    "object": "2017",
+    "chunk": 15
+  },
+  {
+    "subject": "data-driven discovery of partial differential equations",
+    "predicate": "concerns",
+    "object": "partial differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "m. abadi",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "a. agarwal",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "p. barham",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "e. brevdo",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "z. chen",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "c. citro",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "g. s. corrado",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "a. davis",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "j. dean",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "m. devin",
+    "predicate": "authored",
+    "object": "tensorflow",
+    "chunk": 15
+  },
+  {
+    "subject": "tensorflow",
+    "predicate": "is about",
+    "object": "large-scale machine learning",
+    "chunk": 15
+  },
+  {
+    "subject": "tensorflow",
+    "predicate": "runs on",
+    "object": "heterogeneous distributed systems",
+    "chunk": 15
+  },
+  {
+    "subject": "tensorflow",
+    "predicate": "published as",
+    "object": "arxiv preprint arxiv:1603.04467",
+    "chunk": 15
+  },
+  {
+    "subject": "tensorflow",
+    "predicate": "published",
+    "object": "2016",
+    "chunk": 15
+  },
+  {
+    "subject": "large-scale machine learning",
+    "predicate": "uses",
+    "object": "heterogeneous distributed systems",
+    "chunk": 15
+  },
+  {
+    "subject": "d. c. liu",
+    "predicate": "authored",
+    "object": "on the limited memory bfgs method for large scale optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "j. nocedal",
+    "predicate": "authored",
+    "object": "on the limited memory bfgs method for large scale optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "on the limited memory bfgs method for large scale optimization",
+    "predicate": "published in",
+    "object": "mathematical programming 45",
+    "chunk": 15
+  },
+  {
+    "subject": "on the limited memory bfgs method for large scale optimization",
+    "predicate": "published",
+    "object": "1989",
+    "chunk": 15
+  },
+  {
+    "subject": "on the limited memory bfgs method for large scale optimization",
+    "predicate": "discusses",
+    "object": "limited memory bfgs method",
+    "chunk": 15
+  },
+  {
+    "subject": "limited memory bfgs method",
+    "predicate": "used for",
+    "object": "large scale optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "i. goodfellow",
+    "predicate": "authored",
+    "object": "deep learning",
+    "chunk": 15
+  },
+  {
+    "subject": "y. bengio",
+    "predicate": "authored",
+    "object": "deep learning",
+    "chunk": 15
+  },
+  {
+    "subject": "a. courville",
+    "predicate": "authored",
+    "object": "deep learning",
+    "chunk": 15
+  },
+  {
+    "subject": "deep learning",
+    "predicate": "published by",
+    "object": "mit press",
+    "chunk": 15
+  },
+  {
+    "subject": "deep learning",
+    "predicate": "published",
+    "object": "2016",
+    "chunk": 15
+  },
+  {
+    "subject": "d. kingma",
+    "predicate": "authored",
+    "object": "adam: a method for stochastic optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "j. ba",
+    "predicate": "authored",
+    "object": "adam: a method for stochastic optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "adam: a method for stochastic optimization",
+    "predicate": "describes",
+    "object": "adam",
+    "chunk": 15
+  },
+  {
+    "subject": "adam",
+    "predicate": "is method for",
+    "object": "stochastic optimization",
+    "chunk": 15
+  },
+  {
+    "subject": "adam: a method for stochastic optimization",
+    "predicate": "published as",
+    "object": "arxiv preprint arxiv:1412.6980",
+    "chunk": 15
+  },
+  {
+    "subject": "adam: a method for stochastic optimization",
+    "predicate": "published",
+    "object": "2014",
+    "chunk": 15
+  },
+  {
+    "subject": "a. choromanska",
+    "predicate": "authored",
+    "object": "the loss surfaces of multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "m. henaff",
+    "predicate": "authored",
+    "object": "the loss surfaces of multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "m. mathieu",
+    "predicate": "authored",
+    "object": "the loss surfaces of multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "g. b. arous",
+    "predicate": "authored",
+    "object": "the loss surfaces of multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "y. lecun",
+    "predicate": "authored",
+    "object": "the loss surfaces of multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "the loss surfaces of multilayer networks",
+    "predicate": "published in",
+    "object": "artificial intelligence and statistics",
+    "chunk": 15
+  },
+  {
+    "subject": "the loss surfaces of multilayer networks",
+    "predicate": "concerns",
+    "object": "multilayer networks",
+    "chunk": 15
+  },
+  {
+    "subject": "the loss surfaces of multilayer networks",
+    "predicate": "concerns",
+    "object": "loss surfaces",
+    "chunk": 15
+  },
+  {
+    "subject": "r. shwartz-ziv",
+    "predicate": "authored",
+    "object": "opening the black box of deep neural networks via information",
+    "chunk": 15
+  },
+  {
+    "subject": "n. tishby",
+    "predicate": "authored",
+    "object": "opening the black box of deep neural networks via information",
+    "chunk": 15
+  },
+  {
+    "subject": "opening the black box of deep neural networks via information",
+    "predicate": "published as",
+    "object": "arxiv preprint:1703.00810",
+    "chunk": 15
+  },
+  {
+    "subject": "opening the black box of deep neural networks via information",
+    "predicate": "published",
+    "object": "2017",
+    "chunk": 15
+  },
+  {
+    "subject": "opening the black box of deep neural networks via information",
+    "predicate": "concerns",
+    "object": "deep neural networks",
+    "chunk": 15
+  },
+  {
+    "subject": "opening the black box of deep neural networks via information",
+    "predicate": "uses",
+    "object": "information",
+    "chunk": 15
+  },
+  {
+    "subject": "t. a. driscoll",
+    "predicate": "authored",
+    "object": "chebfun guide",
+    "chunk": 15
+  },
+  {
+    "subject": "n. hale",
+    "predicate": "authored",
+    "object": "chebfun guide",
+    "chunk": 15
+  },
+  {
+    "subject": "l. n. trefethen",
+    "predicate": "authored",
+    "object": "chebfun guide",
+    "chunk": 15
+  },
+  {
+    "subject": "chebfun guide",
+    "predicate": "published",
+    "object": "2014",
+    "chunk": 15
+  },
+  {
+    "subject": "chebfun guide",
+    "predicate": "describes",
+    "object": "chebfun",
+    "chunk": 15
+  },
+  {
+    "subject": "m. stein",
+    "predicate": "authored",
+    "object": "large sample properties of simulations using latin hypercube sampling",
+    "chunk": 15
+  },
+  {
+    "subject": "large sample properties of simulations using latin hypercube sampling",
+    "predicate": "published in",
+    "object": "technometrics 29",
+    "chunk": 15
+  },
+  {
+    "subject": "large sample properties of simulations using latin hypercube sampling",
+    "predicate": "published",
+    "object": "1987",
+    "chunk": 15
+  },
+  {
+    "subject": "large sample properties of simulations using latin hypercube sampling",
+    "predicate": "uses",
+    "object": "latin hypercube sampling",
+    "chunk": 15
+  },
+  {
+    "subject": "latin hypercube sampling",
+    "predicate": "used in",
+    "object": "simulations",
+    "chunk": 15
+  },
+  {
+    "subject": "a. iserles",
+    "predicate": "authored",
+    "object": "a first course in the numerical analysis of differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "a first course in the numerical analysis of differential equations",
+    "predicate": "published by",
+    "object": "cambridge university press",
+    "chunk": 15
+  },
+  {
+    "subject": "a first course in the numerical analysis of differential equations",
+    "predicate": "published",
+    "object": "2009",
+    "chunk": 15
+  },
+  {
+    "subject": "a first course in the numerical analysis of differential equations",
+    "predicate": "concerns",
+    "object": "numerical analysis of differential equations",
+    "chunk": 15
+  },
+  {
+    "subject": "numerical analysis of differential equations",
+    "predicate": "concerns",
+    "object": "differential equations",
+    "chunk": 15
+  }
+]

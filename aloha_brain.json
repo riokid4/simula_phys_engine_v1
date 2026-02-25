@@ -1,0 +1,494 @@
+[
+  {
+    "subject": "dataset",
+    "predicate": "has license",
+    "object": "apache-2.0",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset",
+    "predicate": "has category",
+    "object": "robotics",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset",
+    "predicate": "has tag",
+    "object": "lerobot",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset",
+    "predicate": "uses config",
+    "object": "default config",
+    "chunk": 1
+  },
+  {
+    "subject": "default config",
+    "predicate": "uses data files",
+    "object": "data/*/*.parquet",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset",
+    "predicate": "created using",
+    "object": "lerobot",
+    "chunk": 1
+  },
+  {
+    "subject": "lerobot",
+    "predicate": "hosted by",
+    "object": "huggingface",
+    "chunk": 1
+  },
+  {
+    "subject": "lerobot",
+    "predicate": "has url",
+    "object": "https://github.com/huggingface/lerobot",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset structure",
+    "predicate": "defined by",
+    "object": "dataset metadata",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "codebase version",
+    "object": "v3.0",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "uses robot type",
+    "object": "aloha robot",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "total episodes",
+    "object": "85",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "total frames",
+    "object": "127500",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "total tasks",
+    "object": "1",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "chunk size",
+    "object": "1000",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "has split",
+    "object": "train split",
+    "chunk": 1
+  },
+  {
+    "subject": "train split",
+    "predicate": "range is",
+    "object": "0:85",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "defines data path",
+    "object": "data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "defines video path",
+    "object": "videos/{video_key}/chunk-{chunk_index:03d}/file-{file_index:03d}.mp4",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "data files size",
+    "object": "100 mb",
+    "chunk": 1
+  },
+  {
+    "subject": "dataset metadata",
+    "predicate": "video files size",
+    "object": "500 mb",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "has dtype",
+    "object": "video",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "has shape",
+    "object": "[480, 640, 3]",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "shape name",
+    "object": "height",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "shape name",
+    "object": "width",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "shape name",
+    "object": "channel",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "video fps",
+    "object": "50.0",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "video codec",
+    "object": "av1",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "video pix fmt",
+    "object": "yuv420p",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "is depth map",
+    "object": "false",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_high",
+    "predicate": "has audio",
+    "object": "false",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_left_wrist",
+    "predicate": "has dtype",
+    "object": "video",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_left_wrist",
+    "predicate": "has shape",
+    "object": "[480, 640, 3]",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_left_wrist",
+    "predicate": "video codec",
+    "object": "av1",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_right_wrist",
+    "predicate": "has dtype",
+    "object": "video",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_right_wrist",
+    "predicate": "has shape",
+    "object": "[480, 640, 3]",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.images.cam_right_wrist",
+    "predicate": "video codec",
+    "object": "av1",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.state",
+    "predicate": "has dtype",
+    "object": "float32",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.state",
+    "predicate": "has shape",
+    "object": "[14]",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.state",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.state",
+    "predicate": "measures",
+    "object": "motor list",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.effort",
+    "predicate": "has dtype",
+    "object": "float32",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.effort",
+    "predicate": "has shape",
+    "object": "[14]",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.effort",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "observation.effort",
+    "predicate": "measures",
+    "object": "motor list",
+    "chunk": 1
+  },
+  {
+    "subject": "action",
+    "predicate": "has dtype",
+    "object": "float32",
+    "chunk": 1
+  },
+  {
+    "subject": "action",
+    "predicate": "has shape",
+    "object": "[14]",
+    "chunk": 1
+  },
+  {
+    "subject": "action",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "action",
+    "predicate": "controls",
+    "object": "motor list",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_waist",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_shoulder",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_elbow",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_forearm_roll",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_wrist_angle",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_wrist_rotate",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "left_gripper",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_waist",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_shoulder",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_elbow",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_forearm_roll",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_wrist_angle",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_wrist_rotate",
+    "chunk": 1
+  },
+  {
+    "subject": "motor list",
+    "predicate": "includes",
+    "object": "right_gripper",
+    "chunk": 1
+  },
+  {
+    "subject": "episode_index",
+    "predicate": "has dtype",
+    "object": "int64",
+    "chunk": 1
+  },
+  {
+    "subject": "episode_index",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "episode_index",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "frame_index",
+    "predicate": "has dtype",
+    "object": "int64",
+    "chunk": 1
+  },
+  {
+    "subject": "frame_index",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "frame_index",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "timestamp",
+    "predicate": "has dtype",
+    "object": "float32",
+    "chunk": 1
+  },
+  {
+    "subject": "timestamp",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "timestamp",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "next.done",
+    "predicate": "has dtype",
+    "object": "bool",
+    "chunk": 1
+  },
+  {
+    "subject": "next.done",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "next.done",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "index",
+    "predicate": "has dtype",
+    "object": "int64",
+    "chunk": 1
+  },
+  {
+    "subject": "index",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "index",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  },
+  {
+    "subject": "task_index",
+    "predicate": "has dtype",
+    "object": "int64",
+    "chunk": 1
+  },
+  {
+    "subject": "task_index",
+    "predicate": "has shape",
+    "object": "[1]",
+    "chunk": 1
+  },
+  {
+    "subject": "task_index",
+    "predicate": "has fps",
+    "object": "50",
+    "chunk": 1
+  }
+]

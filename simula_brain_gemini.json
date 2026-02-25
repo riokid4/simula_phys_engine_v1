@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "lidar sensor",
+    "predicate": "uses",
+    "object": "905nm lasers",
+    "chunk": 1
+  },
+  {
+    "subject": "highly reflective surfaces",
+    "predicate": "cause",
+    "object": "specular reflection",
+    "chunk": 1
+  },
+  {
+    "subject": "glass",
+    "predicate": "is type of",
+    "object": "highly reflective surfaces",
+    "chunk": 1
+  },
+  {
+    "subject": "polished steel",
+    "predicate": "is type of",
+    "object": "highly reflective surfaces",
+    "chunk": 1
+  },
+  {
+    "subject": "specular reflection",
+    "predicate": "results in",
+    "object": "false readings",
+    "chunk": 1
+  },
+  {
+    "subject": "specular reflection",
+    "predicate": "results in",
+    "object": "ghost obstacles",
+    "chunk": 1
+  },
+  {
+    "subject": "false readings",
+    "predicate": "are",
+    "object": "ghost obstacles",
+    "chunk": 1
+  },
+  {
+    "subject": "vacuum gripper",
+    "predicate": "requires",
+    "object": "non-porous surface",
+    "chunk": 1
+  },
+  {
+    "subject": "dust accumulation",
+    "predicate": "on",
+    "object": "suction cups",
+    "chunk": 1
+  },
+  {
+    "subject": "dust accumulation",
+    "predicate": "reduces",
+    "object": "seal integrity",
+    "chunk": 1
+  },
+  {
+    "subject": "suction cups",
+    "predicate": "have",
+    "object": "seal integrity",
+    "chunk": 1
+  },
+  {
+    "subject": "dust accumulation",
+    "predicate": "leads to",
+    "object": "dropped payloads",
+    "chunk": 1
+  },
+  {
+    "subject": "operating above 45c",
+    "predicate": "causes",
+    "object": "thermal throttling",
+    "chunk": 1
+  },
+  {
+    "subject": "thermal throttling",
+    "predicate": "occurs in",
+    "object": "vision processor",
+    "chunk": 1
+  },
+  {
+    "subject": "thermal throttling",
+    "predicate": "increases",
+    "object": "latency",
+    "chunk": 1
+  }
+]

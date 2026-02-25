@@ -1,0 +1,63 @@
+{
+  "training_pack_id": "pack_panda_shockwave_pinn_v1",
+  "scientific_basis": "Derived from PINN principles (Raissi, Perdikaris, Karniadakis) for approximating solutions to nonlinear PDEs governing fluid dynamics and wave propagation, generating fully differentiable surrogate models.",
+  "curriculum_stages": [
+    {
+      "stage_name": "nominal_baseline_kinematics",
+      "description": "Standard container manipulation; slow movements; focus on joint torque control and stable fluid configuration (laminar flow).",
+      "iterations": 5000,
+      "parameters": {
+        "lighting": "daylight_varied",
+        "physics_fidelity": "low_medium",
+        "container_fill_level": [
+          0.5,
+          0.7
+        ],
+        "robot_speed_limit": 0.5,
+        "fluid_viscosity_model": "laminar"
+      }
+    },
+    {
+      "stage_name": "scientific_stress_test_shock_potential",
+      "description": "High-velocity maneuvers designed to induce shock wave formation and significant sloshing (Burgers-like non-linearity) necessary for PINN training on discontinuities.",
+      "iterations": 10000,
+      "parameters": {
+        "equation_type": "Burgers_Inviscid_Model",
+        "reynolds_number_range": [
+          5000,
+          50000
+        ],
+        "surface_friction": [
+          0.1,
+          0.2
+        ],
+        "acceleration_pulse_profile": "step_function_high_g",
+        "boundary_condition_type": "Periodic_and_Dirichlet",
+        "data_capture_focus": "Velocity_Fields_and_Pressure_Gradients",
+        "notes": "Generates data rich in non-linearity and potential discontinuities/shocks, crucial for training physics-informed surrogate models."
+      }
+    },
+    {
+      "stage_name": "edge_case_turbulence_and_friction_loss",
+      "description": "Testing mechanical stability and energy dissipation under high turbulence (Navier-Stokes regime) and extreme friction variation.",
+      "iterations": 7500,
+      "parameters": {
+        "equation_type": "Navier_Stokes_Turbulence",
+        "surface_friction": [
+          0.05,
+          0.95
+        ],
+        "turbulence_model": "k_epsilon",
+        "temperature_variation": [
+          280,
+          320
+        ],
+        "external_perturbation_frequency": [
+          0.5,
+          5.0
+        ],
+        "notes": "Focuses on explicit physics failures: high friction loss leading to excessive energy dissipation and highly turbulent flow fields (maximum data entropy)."
+      }
+    }
+  ]
+}

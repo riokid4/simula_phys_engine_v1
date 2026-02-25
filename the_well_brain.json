@@ -1,0 +1,236 @@
+[
+  {
+    "subject": "the well",
+    "predicate": "is",
+    "object": "collection",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "contains",
+    "object": "physics simulations",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "provides",
+    "object": "15tb",
+    "chunk": 1
+  },
+  {
+    "subject": "collection",
+    "predicate": "is",
+    "object": "large-scale",
+    "chunk": 1
+  },
+  {
+    "subject": "collection",
+    "predicate": "contains",
+    "object": "machine learning datasets",
+    "chunk": 1
+  },
+  {
+    "subject": "machine learning datasets",
+    "predicate": "contain",
+    "object": "numerical simulations",
+    "chunk": 1
+  },
+  {
+    "subject": "numerical simulations",
+    "predicate": "cover",
+    "object": "spatiotemporal physical systems",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "draws from",
+    "object": "domain scientists",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "draws from",
+    "object": "numerical software developers",
+    "chunk": 1
+  },
+  {
+    "subject": "15tb",
+    "predicate": "spans",
+    "object": "16 datasets",
+    "chunk": 1
+  },
+  {
+    "subject": "16 datasets",
+    "predicate": "cover",
+    "object": "diverse domains",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse domains",
+    "predicate": "include",
+    "object": "biological systems",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse domains",
+    "predicate": "include",
+    "object": "fluid dynamics",
+    "chunk": 1
+  },
+  {
+    "subject": "diverse domains",
+    "predicate": "include",
+    "object": "acoustic scattering",
+    "chunk": 1
+  },
+  {
+    "subject": "16 datasets",
+    "predicate": "include",
+    "object": "magneto-hydrodynamic simulations",
+    "chunk": 1
+  },
+  {
+    "subject": "magneto-hydrodynamic simulations",
+    "predicate": "study",
+    "object": "extra-galactic fluids",
+    "chunk": 1
+  },
+  {
+    "subject": "magneto-hydrodynamic simulations",
+    "predicate": "study",
+    "object": "supernova explosions",
+    "chunk": 1
+  },
+  {
+    "subject": "datasets",
+    "predicate": "range minimum",
+    "object": "6.9gb",
+    "chunk": 1
+  },
+  {
+    "subject": "datasets",
+    "predicate": "range maximum",
+    "object": "5.1tb",
+    "chunk": 1
+  },
+  {
+    "subject": "datasets",
+    "predicate": "include",
+    "object": "active_matter",
+    "chunk": 1
+  },
+  {
+    "subject": "datasets",
+    "predicate": "include",
+    "object": "supernova explosions",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "installs via",
+    "object": "pip install",
+    "chunk": 1
+  },
+  {
+    "subject": "the well",
+    "predicate": "installs via",
+    "object": "git clone",
+    "chunk": 1
+  },
+  {
+    "subject": "git clone",
+    "predicate": "uses",
+    "object": "polymathicai github repository",
+    "chunk": 1
+  },
+  {
+    "subject": "usage",
+    "predicate": "imports",
+    "object": "welldataset",
+    "chunk": 1
+  },
+  {
+    "subject": "usage",
+    "predicate": "imports",
+    "object": "dataloader",
+    "chunk": 1
+  },
+  {
+    "subject": "welldataset",
+    "predicate": "requires",
+    "object": "well_base_path",
+    "chunk": 1
+  },
+  {
+    "subject": "welldataset",
+    "predicate": "requires",
+    "object": "well_dataset_name",
+    "chunk": 1
+  },
+  {
+    "subject": "welldataset",
+    "predicate": "requires",
+    "object": "well_split_name",
+    "chunk": 1
+  },
+  {
+    "subject": "trainset",
+    "predicate": "is instance of",
+    "object": "welldataset",
+    "chunk": 1
+  },
+  {
+    "subject": "trainset",
+    "predicate": "uses split",
+    "object": "train",
+    "chunk": 1
+  },
+  {
+    "subject": "trainset",
+    "predicate": "uses dataset",
+    "object": "active_matter",
+    "chunk": 1
+  },
+  {
+    "subject": "most datasets",
+    "predicate": "hosted on",
+    "object": "hugging face",
+    "chunk": 1
+  },
+  {
+    "subject": "hugging face",
+    "predicate": "hosts",
+    "object": "polymathic-ai",
+    "chunk": 1
+  },
+  {
+    "subject": "polymathic-ai",
+    "predicate": "provides",
+    "object": "well_base_path",
+    "chunk": 1
+  },
+  {
+    "subject": "repository",
+    "predicate": "allows",
+    "object": "benchmarking",
+    "chunk": 1
+  },
+  {
+    "subject": "benchmarking",
+    "predicate": "targets",
+    "object": "surrogate models",
+    "chunk": 1
+  },
+  {
+    "subject": "surrogate models",
+    "predicate": "include",
+    "object": "fno",
+    "chunk": 1
+  },
+  {
+    "subject": "benchmarking",
+    "predicate": "uses",
+    "object": "datasets",
+    "chunk": 1
+  }
+]
